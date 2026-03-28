@@ -1,231 +1,40 @@
-- nr: "1"
-  title: ""
-- nr: "2"
-  title: ""
-- nr: "3"
-  title: ""
-- nr: "4"
-  title: ""
-- nr: "5"
-  title: ""
-- nr: "6"
-  title: ""
-- nr: "7"
-  title: ""
-- nr: "8"
-  title: ""
-- nr: "9"
-  title: ""
-- nr: "10"
-  title: ""
-- nr: "11"
-  title: ""
-- nr: "12"
-  title: ""
-- nr: "13"
-  title: ""
-- nr: "14"
-  title: ""
-- nr: "15"
-  title: ""
-- nr: "16"
-  title: ""
-- nr: "17"
-  title: ""
-- nr: "18"
-  title: ""
-- nr: "19"
-  title: ""
-- nr: "20"
-  title: ""
-- nr: "21"
-  title: ""
-- nr: "22"
-  title: ""
-- nr: "23"
-  title: ""
-- nr: "24"
-  title: ""
-- nr: "25"
-  title: ""
-- nr: "26"
-  title: ""
-- nr: "27"
-  title: ""
-- nr: "28"
-  title: ""
-- nr: "29"
-  title: ""
-- nr: "30"
-  title: ""
-- nr: "31"
-  title: ""
-- nr: "32"
-  title: ""
-- nr: "33"
-  title: ""
-- nr: "34"
-  title: ""
-- nr: "35"
-  title: ""
-- nr: "36"
-  title: ""
-- nr: "37"
-  title: ""
-- nr: "38"
-  title: ""
-- nr: "39"
-  title: ""
-- nr: "40"
-  title: ""
-- nr: "41"
-  title: ""
-- nr: "42"
-  title: ""
-- nr: "43"
-  title: ""
-- nr: "44"
-  title: ""
-- nr: "45"
-  title: ""
-- nr: "46"
-  title: ""
-- nr: "47"
-  title: ""
-- nr: "48"
-  title: ""
-- nr: "49"
-  title: ""
-- nr: "50"
-  title: ""
-- nr: "51"
-  title: ""
-- nr: "52"
-  title: ""
-- nr: "53"
-  title: ""
-- nr: "54"
-  title: ""
-- nr: "55"
-  title: ""
-- nr: "56"
-  title: ""
-- nr: "57"
-  title: ""
-- nr: "58"
-  title: ""
-- nr: "59"
-  title: ""
-- nr: "60"
-  title: ""
-- nr: "61"
-  title: ""
-- nr: "62"
-  title: ""
-- nr: "63"
-  title: ""
-- nr: "64"
-  title: ""
-- nr: "65"
-  title: ""
-- nr: "66"
-  title: ""
-- nr: "67"
-  title: ""
-- nr: "68"
-  title: ""
-- nr: "69"
-  title: ""
-- nr: "70"
-  title: ""
-- nr: "71"
-  title: ""
-- nr: "72"
-  title: ""
-- nr: "73"
-  title: ""
-- nr: "74"
-  title: ""
-- nr: "75"
-  title: ""
-- nr: "76"
-  title: ""
-- nr: "77"
-  title: ""
-- nr: "78"
-  title: ""
-- nr: "79"
-  title: ""
-- nr: "80"
-  title: ""
-- nr: "81"
-  title: ""
-- nr: "82"
-  title: ""
-- nr: "83"
-  title: ""
-- nr: "84"
-  title: ""
-- nr: "85"
-  title: ""
-- nr: "86"
-  title: ""
-- nr: "87"
-  title: ""
-- nr: "88"
-  title: ""
-- nr: "89"
-  title: ""
-- nr: "90"
-  title: ""
-- nr: "91"
-  title: ""
-- nr: "92"
-  title: ""
-- nr: "93"
-  title: ""
-- nr: "94"
-  title: ""
-- nr: "95"
-  title: ""
-- nr: "96"
-  title: ""
-- nr: "97"
-  title: ""
-- nr: "98"
-  title: ""
-- nr: "99"
-  title: ""
-- nr: "100"
-  title: ""
-- nr: "101"
-  title: ""
-- nr: "102"
-  title: ""
-- nr: "103"
-  title: ""
-- nr: "104"
-  title: ""
-- nr: "105"
-  title: ""
-- nr: "106"
-  title: ""
-- nr: "107"
-  title: ""
-- nr: "108"
-  title: ""
-- nr: "109"
-  title: ""
-- nr: "110"
-  title: ""
-- nr: "111"
-  title: ""
-- nr: "112"
-  title: ""
-- nr: "113"
-  title: ""
+- label: Anhänge
+  title:
+    de: Anhänge
+    en: Annexes
+    fr: Annexes
+  children:
+    - nr: annex-1
+      title: Liste der Harmonisierungsrechtsvorschriften der Union
+    - nr: annex-2
+      title: Liste der Straftaten gemäß Artikel 5 Absatz 1 Unterabsatz 1 Buchstabe h Ziffer iii
+    - nr: annex-3
+      title: Hochrisiko-KI-Systeme gemäß Artikel 6 Absatz 2
+    - nr: annex-4
+      title: Technische Dokumentation gemäß Artikel 11 Absatz 1
+    - nr: annex-5
+      title: EU-Konformitätserklärung
+    - nr: annex-6
+      title: Konformitätsbewertungsverfahren auf der Grundlage einer internen Kontrolle
+    - nr: annex-7
+      title: Konformität auf der Grundlage einer Bewertung des Qualitätsmanagementsystems und einer Bewertung der technischen Dokumentation
+    - nr: annex-8
+      title: Bei der Registrierung des Hochrisiko-KI-Systems gemäß Artikel 49 bereitzustellende Informationen
+    - nr: annex-9
+      title: Bezüglich Tests unter Realbedingungen gemäß Artikel 60 bei der Registrierung von in Anhang III aufgeführten Hochrisiko-KI-Systemen bereitzustellende Informationen
+    - nr: annex-10
+      title: Anhang 10
+    - nr: annex-11
+      title: Technische Dokumentation gemäß Artikel 53 Absatz 1 Buchstabe a — technische Dokumentation für Anbieter von KI-Modellen mit allgemeinem Verwendungszweck
+    - nr: annex-12
+      title: Transparenzinformationen gemäß Artikel 53 Absatz 1 Buchstabe b — technische Dokumentation für Anbieter von KI-Modellen mit allgemeinem Verwendungszweck für nachgelagerte Anbieter, die das Modell in ihr KI-System integrieren
+    - nr: annex-13
+      title: Kriterien für die Benennung von KI-Modellen mit allgemeinem Verwendungszweck mit systemischem Risiko gemäß Artikel 51
 - label: Erwägungsgründe
-  title: ""
+  title:
+    de: Erwägungsgründe
+    en: Recitals
+    fr: Considérants
   children:
     - nr: rec-1
       title: EG 1
@@ -587,32 +396,490 @@
       title: EG 179
     - nr: rec-180
       title: EG 180
-- label: Anhänge
-  title: ""
+- label:
+    de: KAPITEL I
+    en: CHAPTER I
+    fr: CHAPITRE I
+  title:
+    de: ALLGEMEINE BESTIMMUNGEN
+    en: GENERAL PROVISIONS
+    fr: DISPOSITIONS GÉNÉRALES
   children:
-    - nr: annex-1
-      title: Liste der Harmonisierungsrechtsvorschriften der Union
-    - nr: annex-2
-      title: Liste der Straftaten gemäß Artikel 5 Absatz 1 Unterabsatz 1 Buchstabe h Ziffer iii
-    - nr: annex-3
-      title: Hochrisiko-KI-Systeme gemäß Artikel 6 Absatz 2
-    - nr: annex-4
-      title: Technische Dokumentation gemäß Artikel 11 Absatz 1
-    - nr: annex-5
-      title: EU-Konformitätserklärung
-    - nr: annex-6
-      title: Konformitätsbewertungsverfahren auf der Grundlage einer internen Kontrolle
-    - nr: annex-7
-      title: Konformität auf der Grundlage einer Bewertung des Qualitätsmanagementsystems und einer Bewertung der technischen Dokumentation
-    - nr: annex-8
-      title: Bei der Registrierung des Hochrisiko-KI-Systems gemäß Artikel 49 bereitzustellende Informationen
-    - nr: annex-9
-      title: Bezüglich Tests unter Realbedingungen gemäß Artikel 60 bei der Registrierung von in Anhang III aufgeführten Hochrisiko-KI-Systemen bereitzustellende Informationen
-    - nr: annex-10
-      title: Anhang 10
-    - nr: annex-11
-      title: Technische Dokumentation gemäß Artikel 53 Absatz 1 Buchstabe a — technische Dokumentation für Anbieter von KI-Modellen mit allgemeinem Verwendungszweck
-    - nr: annex-12
-      title: Transparenzinformationen gemäß Artikel 53 Absatz 1 Buchstabe b — technische Dokumentation für Anbieter von KI-Modellen mit allgemeinem Verwendungszweck für nachgelagerte Anbieter, die das Modell in ihr KI-System integrieren
-    - nr: annex-13
-      title: Kriterien für die Benennung von KI-Modellen mit allgemeinem Verwendungszweck mit systemischem Risiko gemäß Artikel 51
+    - nr: "1"
+      title: ""
+    - nr: "2"
+      title: ""
+    - nr: "3"
+      title: ""
+    - nr: "4"
+      title: ""
+- label:
+    de: KAPITEL II
+    en: CHAPTER II
+    fr: CHAPITRE II
+  title:
+    de: VERBOTENE PRAKTIKEN IM KI-BEREICH
+    en: PROHIBITED AI PRACTICES
+    fr: PRATIQUES INTERDITES EN MATIÈRE D’IA
+  children:
+    - nr: "5"
+      title: ""
+- label:
+    de: KAPITEL III
+    en: CHAPTER III
+    fr: CHAPITRE III
+  title:
+    de: HOCHRISIKO-KI-SYSTEME
+    en: HIGH-RISK AI SYSTEMS
+    fr: SYSTÈMES D’IA À HAUT RISQUE
+  children:
+    - label:
+        de: ABSCHNITT 1
+        en: SECTION 1
+        fr: SECTION 1
+      title:
+        de: Einstufung von KI-Systemen als Hochrisiko-KI-Systeme
+        en: Classification of AI systems as high-risk
+        fr: Classification de systèmes d’IA comme systèmes à haut risque
+      children:
+        - nr: "6"
+          title: ""
+        - nr: "7"
+          title: ""
+    - label:
+        de: ABSCHNITT 2
+        en: SECTION 2
+        fr: SECTION 2
+      title:
+        de: Anforderungen an Hochrisiko-KI-Systeme
+        en: Requirements for high-risk AI systems
+        fr: Exigences applicables aux systèmes d’IA à haut risque
+      children:
+        - nr: "8"
+          title: ""
+        - nr: "9"
+          title: ""
+        - nr: "10"
+          title: ""
+        - nr: "11"
+          title: ""
+        - nr: "12"
+          title: ""
+        - nr: "13"
+          title: ""
+        - nr: "14"
+          title: ""
+        - nr: "15"
+          title: ""
+    - label:
+        de: ABSCHNITT 3
+        en: SECTION 3
+        fr: SECTION 3
+      title:
+        de: Pflichten der Anbieter und Betreiber von Hochrisiko-KI-Systemen und anderer Beteiligter
+        en: Obligations of providers and deployers of high-risk AI systems and other parties
+        fr: Obligations incombant aux fournisseurs et aux déployeurs de systèmes d’IA à haut risque et à d’autres parties
+      children:
+        - nr: "16"
+          title: ""
+        - nr: "17"
+          title: ""
+        - nr: "18"
+          title: ""
+        - nr: "19"
+          title: ""
+        - nr: "20"
+          title: ""
+        - nr: "21"
+          title: ""
+        - nr: "22"
+          title: ""
+        - nr: "23"
+          title: ""
+        - nr: "24"
+          title: ""
+        - nr: "25"
+          title: ""
+        - nr: "26"
+          title: ""
+        - nr: "27"
+          title: ""
+    - label:
+        de: ABSCHNITT 4
+        en: SECTION 4
+        fr: SECTION 4
+      title:
+        de: Notifizierende Behörden und notifizierte Stellen
+        en: Notifying authorities and notified bodies
+        fr: Autorités notifiantes et organismes notifiés
+      children:
+        - nr: "28"
+          title: ""
+        - nr: "29"
+          title: ""
+        - nr: "30"
+          title: ""
+        - nr: "31"
+          title: ""
+        - nr: "32"
+          title: ""
+        - nr: "33"
+          title: ""
+        - nr: "34"
+          title: ""
+        - nr: "35"
+          title: ""
+        - nr: "36"
+          title: ""
+        - nr: "37"
+          title: ""
+        - nr: "38"
+          title: ""
+        - nr: "39"
+          title: ""
+    - label:
+        de: ABSCHNITT 5
+        en: SECTION 5
+        fr: SECTION 5
+      title:
+        de: Normen, Konformitätsbewertung, Bescheinigungen, Registrierung
+        en: Standards, conformity assessment, certificates, registration
+        fr: Normes, évaluation de la conformité, certificats, enregistrement
+      children:
+        - nr: "40"
+          title: ""
+        - nr: "41"
+          title: ""
+        - nr: "42"
+          title: ""
+        - nr: "43"
+          title: ""
+        - nr: "44"
+          title: ""
+        - nr: "45"
+          title: ""
+        - nr: "46"
+          title: ""
+        - nr: "47"
+          title: ""
+        - nr: "48"
+          title: ""
+        - nr: "49"
+          title: ""
+- label:
+    de: KAPITEL IV
+    en: CHAPTER IV
+    fr: CHAPITRE IV
+  title:
+    de: TRANSPARENZPFLICHTEN FÜR ANBIETER UND BETREIBER BESTIMMTER KI-SYSTEME
+    en: TRANSPARENCY OBLIGATIONS FOR PROVIDERS AND DEPLOYERS OF CERTAIN AI SYSTEMS
+    fr: OBLIGATIONS DE TRANSPARENCE POUR LES FOURNISSEURS ET LES DÉPLOYEURS DE CERTAINS SYSTÈMES D’IA
+  children:
+    - nr: "50"
+      title: ""
+- label:
+    de: KAPITEL V
+    en: CHAPTER V
+    fr: CHAPITRE V
+  title:
+    de: KI-MODELLE MIT ALLGEMEINEM VERWENDUNGSZWECK
+    en: GENERAL-PURPOSE AI MODELS
+    fr: MODÈLES D’IA À USAGE GÉNÉRAL
+  children:
+    - label:
+        de: ABSCHNITT 1
+        en: SECTION 1
+        fr: SECTION 1
+      title:
+        de: Einstufungsvorschriften
+        en: Classification rules
+        fr: Règles de classification
+      children:
+        - nr: "51"
+          title: ""
+        - nr: "52"
+          title: ""
+    - label:
+        de: ABSCHNITT 2
+        en: SECTION 2
+        fr: SECTION 2
+      title:
+        de: Pflichten für Anbieter von KI-Modellen mit allgemeinem Verwendungszweck
+        en: Obligations for providers of general-purpose AI models
+        fr: Obligations incombant aux fournisseurs de modèles d’IA à usage général
+      children:
+        - nr: "53"
+          title: ""
+        - nr: "54"
+          title: ""
+    - label:
+        de: ABSCHNITT 3
+        en: SECTION 3
+        fr: SECTION 3
+      title:
+        de: Pflichten der Anbieter von KI-Modellen mit allgemeinem Verwendungszweck mit systemischem Risiko
+        en: Obligations of providers of general-purpose AI models with systemic risk
+        fr: Obligations incombant aux fournisseurs de modèles d’IA à usage général présentant un risque systémique
+      children:
+        - nr: "55"
+          title: ""
+    - label:
+        de: ABSCHNITT 4
+        en: SECTION 4
+        fr: SECTION 4
+      title:
+        de: Praxisleitfäden
+        en: Codes of practice
+        fr: Codes de bonnes pratiques
+      children:
+        - nr: "56"
+          title: ""
+- label:
+    de: KAPITEL VI
+    en: CHAPTER VI
+    fr: CHAPITRE VI
+  title:
+    de: MASSNAHMEN ZUR INNOVATIONSFÖRDERUNG
+    en: MEASURES IN SUPPORT OF INNOVATION
+    fr: MESURES DE SOUTIEN À L’INNOVATION
+  children:
+    - nr: "57"
+      title: ""
+    - nr: "58"
+      title: ""
+    - nr: "59"
+      title: ""
+    - nr: "60"
+      title: ""
+    - nr: "61"
+      title: ""
+    - nr: "62"
+      title: ""
+    - nr: "63"
+      title: ""
+- label:
+    de: KAPITEL VII
+    en: CHAPTER VII
+    fr: CHAPITRE VII
+  title:
+    de: GOVERNANCE
+    en: GOVERNANCE
+    fr: GOUVERNANCE
+  children:
+    - label:
+        de: ABSCHNITT 1
+        en: SECTION 1
+        fr: SECTION 1
+      title:
+        de: Governance auf Unionsebene
+        en: Governance at Union level
+        fr: Gouvernance au niveau de l’Union
+      children:
+        - nr: "64"
+          title: ""
+        - nr: "65"
+          title: ""
+        - nr: "66"
+          title: ""
+        - nr: "67"
+          title: ""
+        - nr: "68"
+          title: ""
+        - nr: "69"
+          title: ""
+    - label:
+        de: ABSCHNITT 2
+        en: SECTION 2
+        fr: SECTION 2
+      title:
+        de: Zuständige nationale Behörden
+        en: National competent authorities
+        fr: Autorités nationales compétentes
+      children:
+        - nr: "70"
+          title: ""
+- label:
+    de: KAPITEL VIII
+    en: CHAPTER VIII
+    fr: CHAPITRE VIII
+  title:
+    de: EU-DATENBANK FÜR HOCHRISIKO-KI-SYSTEME
+    en: EU DATABASE FOR HIGH-RISK AI SYSTEMS
+    fr: BASE DE DONNÉES DE L’UE POUR LES SYSTÈMES D’IA À HAUT RISQUE
+  children:
+    - nr: "71"
+      title: ""
+- label:
+    de: KAPITEL IX
+    en: CHAPTER IX
+    fr: CHAPITRE IX
+  title:
+    de: BEOBACHTUNG NACH DEM INVERKEHRBRINGEN, INFORMATIONSAUSTAUSCH UND MARKTÜBERWACHUNG
+    en: POST-MARKET MONITORING, INFORMATION SHARING AND MARKET SURVEILLANCE
+    fr: SURVEILLANCE APRÈS COMMERCIALISATION, PARTAGE D’INFORMATIONS ET SURVEILLANCE DU MARCHÉ
+  children:
+    - label:
+        de: ABSCHNITT 1
+        en: SECTION 1
+        fr: SECTION 1
+      title:
+        de: Beobachtung nach dem Inverkehrbringen
+        en: Post-market monitoring
+        fr: Surveillance après commercialisation
+      children:
+        - nr: "72"
+          title: ""
+    - label:
+        de: ABSCHNITT 2
+        en: SECTION 2
+        fr: SECTION 2
+      title:
+        de: Austausch von Informationen über schwerwiegende Vorfälle
+        en: Sharing of information on serious incidents
+        fr: Partage d’informations sur les incidents graves
+      children:
+        - nr: "73"
+          title: ""
+    - label:
+        de: ABSCHNITT 3
+        en: SECTION 3
+        fr: SECTION 3
+      title:
+        de: Durchsetzung
+        en: Enforcement
+        fr: Contrôle de l’application
+      children:
+        - nr: "74"
+          title: ""
+        - nr: "75"
+          title: ""
+        - nr: "76"
+          title: ""
+        - nr: "77"
+          title: ""
+        - nr: "78"
+          title: ""
+        - nr: "79"
+          title: ""
+        - nr: "80"
+          title: ""
+        - nr: "81"
+          title: ""
+        - nr: "82"
+          title: ""
+        - nr: "83"
+          title: ""
+        - nr: "84"
+          title: ""
+    - label:
+        de: ABSCHNITT 4
+        en: SECTION 4
+        fr: SECTION 4
+      title:
+        de: Rechtsbehelfe
+        en: Remedies
+        fr: Voies de recours
+      children:
+        - nr: "85"
+          title: ""
+        - nr: "86"
+          title: ""
+        - nr: "87"
+          title: ""
+    - label:
+        de: ABSCHNITT 5
+        en: SECTION 5
+        fr: SECTION 5
+      title:
+        de: Aufsicht, Ermittlung, Durchsetzung und Überwachung in Bezug auf Anbieter von KI-Modellen mit allgemeinem Verwendungszweck
+        en: Supervision, investigation, enforcement and monitoring in respect of providers of general-purpose AI models
+        fr: Surveillance, enquêtes, contrôle de l’application et contrôle en ce qui concerne les fournisseurs de modèles d’IA à usage général
+      children:
+        - nr: "88"
+          title: ""
+        - nr: "89"
+          title: ""
+        - nr: "90"
+          title: ""
+        - nr: "91"
+          title: ""
+        - nr: "92"
+          title: ""
+        - nr: "93"
+          title: ""
+        - nr: "94"
+          title: ""
+- label:
+    de: KAPITEL X
+    en: CHAPTER X
+    fr: CHAPITRE X
+  title:
+    de: VERHALTENSKODIZES UND LEITLINIEN
+    en: CODES OF CONDUCT AND GUIDELINES
+    fr: CODES DE CONDUITE ET LIGNES DIRECTRICES
+  children:
+    - nr: "95"
+      title: ""
+    - nr: "96"
+      title: ""
+- label:
+    de: KAPITEL XI
+    en: CHAPTER XI
+    fr: CHAPITRE XI
+  title:
+    de: BEFUGNISÜBERTRAGUNG UND AUSSCHUSSVERFAHREN
+    en: DELEGATION OF POWER AND COMMITTEE PROCEDURE
+    fr: DÉLÉGATION DE POUVOIR ET PROCÉDURE DE COMITÉ
+  children:
+    - nr: "97"
+      title: ""
+    - nr: "98"
+      title: ""
+- label:
+    de: KAPITEL XII
+    en: CHAPTER XII
+    fr: CHAPITRE XII
+  title:
+    de: SANKTIONEN
+    en: PENALTIES
+    fr: SANCTIONS
+  children:
+    - nr: "99"
+      title: ""
+    - nr: "100"
+      title: ""
+    - nr: "101"
+      title: ""
+- label:
+    de: KAPITEL XIII
+    en: CHAPTER XIII
+    fr: CHAPITRE XIII
+  title:
+    de: SCHLUSSBESTIMMUNGEN
+    en: FINAL PROVISIONS
+    fr: DISPOSITIONS FINALES
+  children:
+    - nr: "102"
+      title: ""
+    - nr: "103"
+      title: ""
+    - nr: "104"
+      title: ""
+    - nr: "105"
+      title: ""
+    - nr: "106"
+      title: ""
+    - nr: "107"
+      title: ""
+    - nr: "108"
+      title: ""
+    - nr: "109"
+      title: ""
+    - nr: "110"
+      title: ""
+    - nr: "111"
+      title: ""
+    - nr: "112"
+      title: ""
+    - nr: "113"
+      title: ""

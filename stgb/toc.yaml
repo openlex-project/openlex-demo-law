@@ -1,0 +1,1244 @@
+- label: Allgemeiner Teil
+  title: ""
+  children:
+    - label: Erster Abschnitt
+      title: Das Strafgesetz
+      children:
+        - label: Erster Titel
+          title: Geltungsbereich
+          children:
+            - nr: "1"
+              title: Keine Strafe ohne Gesetz
+            - nr: "2"
+              title: Zeitliche Geltung
+            - nr: "3"
+              title: Geltung für Inlandstaten
+            - nr: "4"
+              title: Geltung für Taten auf deutschen Schiffen und Luftfahrzeugen
+            - nr: "5"
+              title: Auslandstaten mit besonderem Inlandsbezug
+            - nr: "6"
+              title: Auslandstaten gegen international geschützte Rechtsgüter
+            - nr: "7"
+              title: Geltung für Auslandstaten in anderen Fällen
+            - nr: "8"
+              title: Zeit der Tat
+            - nr: "9"
+              title: Ort der Tat
+            - nr: "10"
+              title: Sondervorschriften für Jugendliche und Heranwachsende
+        - label: Zweiter Titel
+          title: Sprachgebrauch
+          children:
+            - nr: "11"
+              title: Personen- und Sachbegriffe
+            - nr: "12"
+              title: Verbrechen und Vergehen
+    - label: Zweiter Abschnitt
+      title: Die Tat
+      children:
+        - label: Erster Titel
+          title: Grundlagen der Strafbarkeit
+          children:
+            - nr: "13"
+              title: Begehen durch Unterlassen
+            - nr: "14"
+              title: Handeln für einen anderen
+            - nr: "15"
+              title: Vorsätzliches und fahrlässiges Handeln
+            - nr: "16"
+              title: Irrtum über Tatumstände
+            - nr: "17"
+              title: Verbotsirrtum
+            - nr: "18"
+              title: Schwerere Strafe bei besonderen Tatfolgen
+            - nr: "19"
+              title: Schuldunfähigkeit des Kindes
+            - nr: "20"
+              title: Schuldunfähigkeit wegen seelischer Störungen
+            - nr: "21"
+              title: Verminderte Schuldfähigkeit
+        - label: Zweiter Titel
+          title: Versuch
+          children:
+            - nr: "22"
+              title: Begriffsbestimmung
+            - nr: "23"
+              title: Strafbarkeit des Versuchs
+            - nr: "24"
+              title: Rücktritt
+        - label: Dritter Titel
+          title: Täterschaft und Teilnahme
+          children:
+            - nr: "25"
+              title: Täterschaft
+            - nr: "26"
+              title: Anstiftung
+            - nr: "27"
+              title: Beihilfe
+            - nr: "28"
+              title: Besondere persönliche Merkmale
+            - nr: "29"
+              title: Selbständige Strafbarkeit des Beteiligten
+            - nr: "30"
+              title: Versuch der Beteiligung
+            - nr: "31"
+              title: Rücktritt vom Versuch der Beteiligung
+        - label: Vierter Titel
+          title: Notwehr und Notstand
+          children:
+            - nr: "32"
+              title: Notwehr
+            - nr: "33"
+              title: Überschreitung der Notwehr
+            - nr: "34"
+              title: Rechtfertigender Notstand
+            - nr: "35"
+              title: Entschuldigender Notstand
+        - label: Fünfter Titel
+          title: Straflosigkeit parlamentarischer Äußerungen und Berichte
+          children:
+            - nr: "36"
+              title: Parlamentarische Äußerungen
+            - nr: "37"
+              title: Parlamentarische Berichte
+    - label: Dritter Abschnitt
+      title: Rechtsfolgen der Tat
+      children:
+        - label: Erster Titel
+          title: Strafen
+          children:
+            - label: Freiheitsstrafe
+              title: ""
+              children:
+                - nr: "38"
+                  title: Dauer der Freiheitsstrafe
+                - nr: "39"
+                  title: Bemessung der Freiheitsstrafe
+            - label: Geldstrafe
+              title: ""
+              children:
+                - nr: "40"
+                  title: Verhängung in Tagessätzen
+                - nr: "41"
+                  title: Geldstrafe neben Freiheitsstrafe
+                - nr: "42"
+                  title: Zahlungserleichterungen
+                - nr: "43"
+                  title: Ersatzfreiheitsstrafe
+            - label: Nebenstrafe
+              title: ""
+              children:
+                - nr: "44"
+                  title: Fahrverbot
+            - label: Nebenfolgen
+              title: ""
+              children:
+                - nr: "45"
+                  title: |-
+                    Verlust der Amtsfähigkeit, der Wählbarkeit und des
+                    Stimmrechts
+                - nr: 45a
+                  title: Eintritt und Berechnung des Verlustes
+                - nr: 45b
+                  title: Wiederverleihung von Fähigkeiten und Rechten
+        - label: Zweiter Titel
+          title: Strafbemessung
+          children:
+            - nr: "46"
+              title: Grundsätze der Strafzumessung
+            - nr: 46a
+              title: Täter-Opfer-Ausgleich, Schadenswiedergutmachung
+            - nr: 46b
+              title: Hilfe zur Aufklärung oder Verhinderung von schweren Straftaten
+            - nr: "47"
+              title: Kurze Freiheitsstrafe nur in Ausnahmefällen
+            - nr: "49"
+              title: Besondere gesetzliche Milderungsgründe
+            - nr: "50"
+              title: Zusammentreffen von Milderungsgründen
+            - nr: "51"
+              title: Anrechnung
+        - label: Dritter Titel
+          title: Strafbemessung bei mehreren Gesetzesverletzungen
+          children:
+            - nr: "52"
+              title: Tateinheit
+            - nr: "53"
+              title: Tatmehrheit
+            - nr: "54"
+              title: Bildung der Gesamtstrafe
+            - nr: "55"
+              title: Nachträgliche Bildung der Gesamtstrafe
+        - label: Vierter Titel
+          title: Strafaussetzung zur Bewährung
+          children:
+            - nr: "56"
+              title: Strafaussetzung
+            - nr: 56a
+              title: Bewährungszeit
+            - nr: 56b
+              title: Auflagen
+            - nr: 56c
+              title: Weisungen
+            - nr: 56d
+              title: Bewährungshilfe
+            - nr: 56e
+              title: Nachträgliche Entscheidungen
+            - nr: 56f
+              title: Widerruf der Strafaussetzung
+            - nr: 56g
+              title: Straferlaß
+            - nr: "57"
+              title: Aussetzung des Strafrestes bei zeitiger Freiheitsstrafe
+            - nr: 57a
+              title: Aussetzung des Strafrestes bei lebenslanger Freiheitsstrafe
+            - nr: 57b
+              title: |-
+                Aussetzung des Strafrestes bei lebenslanger Freiheitsstrafe
+                als Gesamtstrafe
+            - nr: "58"
+              title: Gesamtstrafe und Strafaussetzung
+        - label: Fünfter Titel
+          title: Verwarnung mit Strafvorbehalt <BR/> Absehen von Strafe
+          children:
+            - nr: "59"
+              title: Voraussetzungen der Verwarnung mit Strafvorbehalt
+            - nr: 59a
+              title: Bewährungszeit, Auflagen und Weisungen
+            - nr: 59b
+              title: Verurteilung zu der vorbehaltenen Strafe
+            - nr: 59c
+              title: Gesamtstrafe und Verwarnung mit Strafvorbehalt
+            - nr: "60"
+              title: Absehen von Strafe
+        - label: Sechster Titel
+          title: Maßregeln der Besserung und Sicherung
+          children:
+            - nr: "61"
+              title: Übersicht
+            - nr: "62"
+              title: Grundsatz der Verhältnismäßigkeit
+            - label: Freiheitsentziehende Maßregeln
+              title: ""
+              children:
+                - nr: "63"
+                  title: Unterbringung in einem psychiatrischen Krankenhaus
+                - nr: "64"
+                  title: Unterbringung in einer Entziehungsanstalt
+                - nr: "66"
+                  title: Unterbringung in der Sicherungsverwahrung
+                - nr: 66a
+                  title: Vorbehalt der Unterbringung in der Sicherungsverwahrung
+                - nr: 66b
+                  title: Nachträgliche Anordnung der Unterbringung in der Sicherungsverwahrung
+                - nr: 66c
+                  title: Ausgestaltung der Unterbringung in der Sicherungsverwahrung und des vorhergehenden Strafvollzugs
+                - nr: "67"
+                  title: Reihenfolge der Vollstreckung
+                - nr: 67a
+                  title: Überweisung in den Vollzug einer anderen Maßregel
+                - nr: 67b
+                  title: Aussetzung zugleich mit der Anordnung
+                - nr: 67c
+                  title: Späterer Beginn der Unterbringung
+                - nr: 67d
+                  title: Dauer der Unterbringung
+                - nr: 67e
+                  title: Überprüfung
+                - nr: 67f
+                  title: Mehrfache Anordnung der Maßregel
+                - nr: 67g
+                  title: Widerruf der Aussetzung
+                - nr: 67h
+                  title: Befristete Wiederinvollzugsetzung; Krisenintervention
+            - label: Führungsaufsicht
+              title: ""
+              children:
+                - nr: "68"
+                  title: Voraussetzungen der Führungsaufsicht
+                - nr: 68a
+                  title: Aufsichtsstelle, Bewährungshilfe, forensische Ambulanz
+                - nr: 68b
+                  title: Weisungen
+                - nr: 68c
+                  title: Dauer der Führungsaufsicht
+                - nr: 68d
+                  title: Nachträgliche Entscheidungen; Überprüfungsfrist
+                - nr: 68e
+                  title: Beendigung oder Ruhen der Führungsaufsicht
+                - nr: 68f
+                  title: Führungsaufsicht bei Nichtaussetzung des Strafrestes
+                - nr: 68g
+                  title: Führungsaufsicht und Aussetzung zur Bewährung
+            - label: Entziehung der Fahrerlaubnis
+              title: ""
+              children:
+                - nr: "69"
+                  title: Entziehung der Fahrerlaubnis
+                - nr: 69a
+                  title: Sperre für die Erteilung einer Fahrerlaubnis
+                - nr: 69b
+                  title: Wirkung der Entziehung bei einer ausländischen Fahrerlaubnis
+            - label: Berufsverbot
+              title: ""
+              children:
+                - nr: "70"
+                  title: Anordnung des Berufsverbots
+                - nr: 70a
+                  title: Aussetzung des Berufsverbots
+                - nr: 70b
+                  title: Widerruf der Aussetzung und Erledigung des Berufsverbots
+            - label: Gemeinsame Vorschriften
+              title: ""
+              children:
+                - nr: "71"
+                  title: Selbständige Anordnung
+                - nr: "72"
+                  title: Verbindung von Maßregeln
+        - label: Siebenter Titel
+          title: Einziehung
+          children:
+            - nr: "73"
+              title: Einziehung von Taterträgen bei Tätern und Teilnehmern
+            - nr: 73a
+              title: Erweiterte Einziehung von Taterträgen bei Tätern und Teilnehmern
+            - nr: 73b
+              title: Einziehung von Taterträgen bei anderen
+            - nr: 73c
+              title: Einziehung des Wertes von Taterträgen
+            - nr: 73d
+              title: Bestimmung des Wertes des Erlangten; Schätzung
+            - nr: 73e
+              title: Ausschluss der Einziehung des Tatertrages oder des Wertersatzes
+            - nr: "74"
+              title: Einziehung von Tatprodukten, Tatmitteln und Tatobjekten bei Tätern und Teilnehmern
+            - nr: 74a
+              title: Einziehung von Tatprodukten, Tatmitteln und Tatobjekten bei anderen
+            - nr: 74b
+              title: Sicherungseinziehung
+            - nr: 74c
+              title: Einziehung des Wertes von Tatprodukten, Tatmitteln und Tatobjekten bei Tätern und Teilnehmern
+            - nr: 74d
+              title: Einziehung von Verkörperungen eines Inhalts und Unbrauchbarmachung
+            - nr: 74e
+              title: Sondervorschrift für Organe und Vertreter
+            - nr: 74f
+              title: Grundsatz der Verhältnismäßigkeit
+            - nr: "75"
+              title: Wirkung der Einziehung
+            - nr: "76"
+              title: Nachträgliche Anordnung der Einziehung des Wertersatzes
+            - nr: 76a
+              title: Selbständige Einziehung
+            - nr: 76b
+              title: Verjährung der Einziehung von Taterträgen und des Wertes von Taterträgen
+    - label: Vierter Abschnitt
+      title: Strafantrag, Ermächtigung, Strafverlangen
+      children:
+        - nr: "77"
+          title: Antragsberechtigte
+        - nr: 77a
+          title: Antrag des Dienstvorgesetzten
+        - nr: 77b
+          title: Antragsfrist
+        - nr: 77c
+          title: Wechselseitig begangene Taten
+        - nr: 77d
+          title: Zurücknahme des Antrags
+        - nr: 77e
+          title: Ermächtigung und Strafverlangen
+    - label: Fünfter Abschnitt
+      title: Verjährung
+      children:
+        - label: Erster Titel
+          title: Verfolgungsverjährung
+          children:
+            - nr: "78"
+              title: Verjährungsfrist
+            - nr: 78a
+              title: Beginn
+            - nr: 78b
+              title: Ruhen
+            - nr: 78c
+              title: Unterbrechung
+        - label: Zweiter Titel
+          title: Vollstreckungsverjährung
+          children:
+            - nr: "79"
+              title: Verjährungsfrist
+            - nr: 79a
+              title: Ruhen
+            - nr: 79b
+              title: Verlängerung
+- label: Besonderer Teil
+  title: ""
+  children:
+    - label: Erster Abschnitt
+      title: Friedensverrat, Hochverrat und Gefährdung des demokratischen Rechtsstaates
+      children:
+        - label: Erster Titel
+          title: Friedensverrat
+          children:
+            - nr: 80a
+              title: Aufstacheln zum Verbrechen der Aggression
+        - label: Zweiter Titel
+          title: Hochverrat
+          children:
+            - nr: "81"
+              title: Hochverrat gegen den Bund
+            - nr: "82"
+              title: Hochverrat gegen ein Land
+            - nr: "83"
+              title: Vorbereitung eines hochverräterischen Unternehmens
+            - nr: 83a
+              title: Tätige Reue
+        - label: Dritter Titel
+          title: Gefährdung des demokratischen Rechtsstaates
+          children:
+            - nr: "84"
+              title: Fortführung einer für verfassungswidrig erklärten Partei
+            - nr: "85"
+              title: Verstoß gegen ein Vereinigungsverbot
+            - nr: "86"
+              title: Verbreiten von Propagandamitteln verfassungswidriger und terroristischer Organisationen
+            - nr: 86a
+              title: Verwenden von Kennzeichen verfassungswidriger und terroristischer Organisationen
+            - nr: "87"
+              title: Agententätigkeit zu Sabotagezwecken
+            - nr: "88"
+              title: Verfassungsfeindliche Sabotage
+            - nr: "89"
+              title: Verfassungsfeindliche Einwirkung auf Bundeswehr und öffentliche Sicherheitsorgane
+            - nr: 89a
+              title: Vorbereitung einer schweren staatsgefährdenden Gewalttat
+            - nr: 89b
+              title: Aufnahme von Beziehungen zur Begehung einer schweren staatsgefährdenden Gewalttat
+            - nr: 89c
+              title: Terrorismusfinanzierung
+            - nr: "90"
+              title: Verunglimpfung des Bundespräsidenten
+            - nr: 90a
+              title: Verunglimpfung des Staates und seiner Symbole
+            - nr: 90b
+              title: Verfassungsfeindliche Verunglimpfung von Verfassungsorganen
+            - nr: 90c
+              title: Verunglimpfung von Symbolen der Europäischen Union
+            - nr: "91"
+              title: Anleitung zur Begehung einer schweren staatsgefährdenden Gewalttat
+            - nr: 91a
+              title: Anwendungsbereich
+        - label: Vierter Titel
+          title: Gemeinsame Vorschriften
+          children:
+            - nr: "92"
+              title: Begriffsbestimmungen
+            - nr: 92a
+              title: Nebenfolgen
+            - nr: 92b
+              title: Einziehung
+    - label: Zweiter Abschnitt
+      title: Landesverrat und Gefährdung der äußeren Sicherheit
+      children:
+        - nr: "93"
+          title: Begriff des Staatsgeheimnisses
+        - nr: "94"
+          title: Landesverrat
+        - nr: "95"
+          title: Offenbaren von Staatsgeheimnissen
+        - nr: "96"
+          title: Landesverräterische Ausspähung; Auskundschaften von Staatsgeheimnissen
+        - nr: "97"
+          title: Preisgabe von Staatsgeheimnissen
+        - nr: 97a
+          title: Verrat illegaler Geheimnisse
+        - nr: 97b
+          title: Verrat in irriger Annahme eines illegalen Geheimnisses
+        - nr: "98"
+          title: Landesverräterische Agententätigkeit
+        - nr: "99"
+          title: Geheimdienstliche Agententätigkeit
+        - nr: "100"
+          title: Friedensgefährdende Beziehungen
+        - nr: 100a
+          title: Landesverräterische Fälschung
+        - nr: "101"
+          title: Nebenfolgen
+        - nr: 101a
+          title: Einziehung
+    - label: Dritter Abschnitt
+      title: Straftaten gegen ausländische Staaten
+      children:
+        - nr: "102"
+          title: Angriff gegen Organe und Vertreter ausländischer Staaten
+        - nr: "104"
+          title: Verletzung von Flaggen und Hoheitszeichen ausländischer Staaten
+        - nr: 104a
+          title: Voraussetzungen der Strafverfolgung
+    - label: Vierter Abschnitt
+      title: Straftaten gegen Verfassungsorgane sowie bei Wahlen und Abstimmungen
+      children:
+        - nr: "105"
+          title: Nötigung von Verfassungsorganen
+        - nr: "106"
+          title: |-
+            Nötigung des Bundespräsidenten und von Mitgliedern eines
+            Verfassungsorgans
+        - nr: 106b
+          title: Störung der Tätigkeit eines Gesetzgebungsorgans
+        - nr: "107"
+          title: Wahlbehinderung
+        - nr: 107a
+          title: Wahlfälschung
+        - nr: 107b
+          title: Fälschung von Wahlunterlagen
+        - nr: 107c
+          title: Verletzung des Wahlgeheimnisses
+        - nr: "108"
+          title: Wählernötigung
+        - nr: 108a
+          title: Wählertäuschung
+        - nr: 108b
+          title: Wählerbestechung
+        - nr: 108c
+          title: Nebenfolgen
+        - nr: 108d
+          title: Geltungsbereich
+        - nr: 108e
+          title: Bestechlichkeit und Bestechung von Mandatsträgern
+        - nr: 108f
+          title: Unzulässige Interessenwahrnehmung
+    - label: Fünfter Abschnitt
+      title: Straftaten gegen die Landesverteidigung
+      children:
+        - nr: "109"
+          title: Wehrpflichtentziehung durch Verstümmelung
+        - nr: 109a
+          title: Wehrpflichtentziehung durch Täuschung
+        - nr: 109d
+          title: Störpropaganda gegen die Bundeswehr
+        - nr: 109e
+          title: Sabotagehandlungen an Verteidigungsmitteln
+        - nr: 109f
+          title: Sicherheitsgefährdender Nachrichtendienst
+        - nr: 109g
+          title: Sicherheitsgefährdendes Abbilden
+        - nr: 109h
+          title: Anwerben für fremden Wehrdienst
+        - nr: 109i
+          title: Nebenfolgen
+        - nr: 109k
+          title: Einziehung
+    - label: Sechster Abschnitt
+      title: Widerstand gegen die Staatsgewalt
+      children:
+        - nr: "111"
+          title: Öffentliche Aufforderung zu Straftaten
+        - nr: "113"
+          title: Widerstand gegen Vollstreckungsbeamte
+        - nr: "114"
+          title: Tätlicher Angriff auf Vollstreckungsbeamte
+        - nr: "115"
+          title: Widerstand gegen oder tätlicher Angriff auf Personen, die Vollstreckungsbeamten gleichstehen
+        - nr: "120"
+          title: Gefangenenbefreiung
+        - nr: "121"
+          title: Gefangenenmeuterei
+    - label: Siebenter Abschnitt
+      title: Straftaten gegen die öffentliche Ordnung
+      children:
+        - nr: "123"
+          title: Hausfriedensbruch
+        - nr: "124"
+          title: Schwerer Hausfriedensbruch
+        - nr: "125"
+          title: Landfriedensbruch
+        - nr: 125a
+          title: Besonders schwerer Fall des Landfriedensbruchs
+        - nr: "126"
+          title: Störung des öffentlichen Friedens durch Androhung von Straftaten
+        - nr: 126a
+          title: Gefährdendes Verbreiten personenbezogener Daten
+        - nr: "127"
+          title: Betreiben krimineller Handelsplattformen im Internet
+        - nr: "128"
+          title: Bildung bewaffneter Gruppen
+        - nr: "129"
+          title: Bildung krimineller Vereinigungen
+        - nr: 129a
+          title: Bildung terroristischer Vereinigungen
+        - nr: 129b
+          title: Kriminelle und terroristische Vereinigungen im Ausland; Einziehung
+        - nr: "130"
+          title: Volksverhetzung
+        - nr: 130a
+          title: Anleitung zu Straftaten
+        - nr: "131"
+          title: Gewaltdarstellung
+        - nr: "132"
+          title: Amtsanmaßung
+        - nr: 132a
+          title: Mißbrauch von Titeln, Berufsbezeichnungen und Abzeichen
+        - nr: "133"
+          title: Verwahrungsbruch
+        - nr: "134"
+          title: Verletzung amtlicher Bekanntmachungen
+        - nr: "136"
+          title: Verstrickungsbruch; Siegelbruch
+        - nr: "138"
+          title: Nichtanzeige geplanter Straftaten
+        - nr: "139"
+          title: Straflosigkeit der Nichtanzeige geplanter Straftaten
+        - nr: "140"
+          title: Belohnung und Billigung von Straftaten
+        - nr: "142"
+          title: Unerlaubtes Entfernen vom Unfallort
+        - nr: "145"
+          title: |-
+            Mißbrauch von Notrufen und Beeinträchtigung von
+            Unfallverhütungs- und Nothilfemitteln
+        - nr: 145a
+          title: Verstoß gegen Weisungen während der Führungsaufsicht
+        - nr: 145c
+          title: Verstoß gegen das Berufsverbot
+        - nr: 145d
+          title: Vortäuschen einer Straftat
+    - label: Achter Abschnitt
+      title: Geld- und Wertzeichenfälschung
+      children:
+        - nr: "146"
+          title: Geldfälschung
+        - nr: "147"
+          title: Inverkehrbringen von Falschgeld
+        - nr: "148"
+          title: Wertzeichenfälschung
+        - nr: "149"
+          title: Vorbereitung der Fälschung von Geld und Wertzeichen
+        - nr: "150"
+          title: Einziehung
+        - nr: "151"
+          title: Wertpapiere
+        - nr: "152"
+          title: Geld, Wertzeichen und Wertpapiere eines fremden Währungsgebiets
+        - nr: 152a
+          title: Fälschung von Zahlungskarten, Schecks, Wechseln und anderen körperlichen unbaren Zahlungsinstrumenten
+        - nr: 152b
+          title: Fälschung von Zahlungskarten mit Garantiefunktion
+        - nr: 152c
+          title: Vorbereitung des Diebstahls und der Unterschlagung von Zahlungskarten, Schecks, Wechseln und anderen körperlichen unbaren Zahlungsinstrumenten
+    - label: Neunter Abschnitt
+      title: Falsche uneidliche Aussage und Meineid
+      children:
+        - nr: "153"
+          title: Falsche uneidliche Aussage
+        - nr: "154"
+          title: Meineid
+        - nr: "155"
+          title: Eidesgleiche Bekräftigungen
+        - nr: "156"
+          title: Falsche Versicherung an Eides Statt
+        - nr: "157"
+          title: Aussagenotstand
+        - nr: "158"
+          title: Berichtigung einer falschen Angabe
+        - nr: "159"
+          title: Versuch der Anstiftung zur Falschaussage
+        - nr: "160"
+          title: Verleitung zur Falschaussage
+        - nr: "161"
+          title: Fahrlässiger Falscheid; fahrlässige falsche Versicherung an Eides Statt
+        - nr: "162"
+          title: Internationale Gerichte; nationale Untersuchungsausschüsse
+    - label: Zehnter Abschnitt
+      title: Falsche Verdächtigung
+      children:
+        - nr: "164"
+          title: Falsche Verdächtigung
+        - nr: "165"
+          title: Bekanntgabe der Verurteilung
+    - label: Elfter Abschnitt
+      title: Straftaten, welche sich auf Religion und Weltanschauung beziehen
+      children:
+        - nr: "166"
+          title: Beschimpfung von Bekenntnissen, Religionsgesellschaften und Weltanschauungsvereinigungen
+        - nr: "167"
+          title: Störung der Religionsausübung
+        - nr: 167a
+          title: Störung einer Bestattungsfeier
+        - nr: "168"
+          title: Störung der Totenruhe
+    - label: Zwölfter Abschnitt
+      title: Straftaten gegen den Personenstand, die Ehe und die Familie
+      children:
+        - nr: "169"
+          title: Personenstandsfälschung
+        - nr: "170"
+          title: Verletzung der Unterhaltspflicht
+        - nr: "171"
+          title: Verletzung der Fürsorge- oder Erziehungspflicht
+        - nr: "172"
+          title: Doppelehe; doppelte Lebenspartnerschaft
+        - nr: "173"
+          title: Beischlaf zwischen Verwandten
+    - label: Dreizehnter Abschnitt
+      title: Straftaten gegen die sexuelle Selbstbestimmung
+      children:
+        - nr: "174"
+          title: Sexueller Mißbrauch von Schutzbefohlenen
+        - nr: 174a
+          title: Sexueller Mißbrauch von Gefangenen, behördlich Verwahrten oder Kranken und Hilfsbedürftigen in Einrichtungen
+        - nr: 174b
+          title: Sexueller Mißbrauch unter Ausnutzung einer Amtsstellung
+        - nr: 174c
+          title: Sexueller Mißbrauch unter Ausnutzung eines Beratungs-, Behandlungs- oder Betreuungsverhältnisses
+        - nr: "176"
+          title: Sexueller Missbrauch von Kindern
+        - nr: 176a
+          title: Sexueller Missbrauch von Kindern ohne Körperkontakt mit dem Kind
+        - nr: 176b
+          title: Vorbereitung des sexuellen Missbrauchs von Kindern
+        - nr: 176c
+          title: Schwerer sexueller Missbrauch von Kindern
+        - nr: 176d
+          title: Sexueller Missbrauch von Kindern mit Todesfolge
+        - nr: 176e
+          title: Verbreitung und Besitz von Anleitungen zu sexuellem Missbrauch von Kindern
+        - nr: "177"
+          title: Sexueller Übergriff; sexuelle Nötigung; Vergewaltigung
+        - nr: "178"
+          title: Sexueller Übergriff, sexuelle Nötigung und Vergewaltigung mit Todesfolge
+        - nr: "180"
+          title: Förderung sexueller Handlungen Minderjähriger
+        - nr: 180a
+          title: Ausbeutung von Prostituierten
+        - nr: 181a
+          title: Zuhälterei
+        - nr: 181b
+          title: Führungsaufsicht
+        - nr: "182"
+          title: Sexueller Mißbrauch von Jugendlichen
+        - nr: "183"
+          title: Exhibitionistische Handlungen
+        - nr: 183a
+          title: Erregung öffentlichen Ärgernisses
+        - nr: "184"
+          title: Verbreitung pornographischer Inhalte
+        - nr: 184a
+          title: Verbreitung gewalt- oder tierpornographischer Inhalte
+        - nr: 184b
+          title: Verbreitung, Erwerb und Besitz kinderpornographischer Inhalte
+        - nr: 184c
+          title: Verbreitung, Erwerb und Besitz jugendpornographischer Inhalte
+        - nr: 184e
+          title: Veranstaltung und Besuch kinder- und jugendpornographischer Darbietungen
+        - nr: 184f
+          title: Ausübung der verbotenen Prostitution
+        - nr: 184g
+          title: Jugendgefährdende Prostitution
+        - nr: 184h
+          title: Begriffsbestimmungen
+        - nr: 184i
+          title: Sexuelle Belästigung
+        - nr: 184j
+          title: Straftaten aus Gruppen
+        - nr: 184k
+          title: Verletzung des Intimbereichs durch Bildaufnahmen
+        - nr: 184l
+          title: Inverkehrbringen, Erwerb und Besitz von Sexpuppen mit kindlichem Erscheinungsbild<FnR ID="F816419_01_BJNR001270871BJNE069400360"/>
+    - label: Vierzehnter Abschnitt
+      title: Beleidigung
+      children:
+        - nr: "185"
+          title: Beleidigung
+        - nr: "186"
+          title: Üble Nachrede
+        - nr: "187"
+          title: Verleumdung
+        - nr: "188"
+          title: Gegen Personen des politischen Lebens gerichtete Beleidigung, üble Nachrede und Verleumdung
+        - nr: "189"
+          title: Verunglimpfung des Andenkens Verstorbener
+        - nr: "190"
+          title: Wahrheitsbeweis durch Strafurteil
+        - nr: "192"
+          title: Beleidigung trotz Wahrheitsbeweises
+        - nr: 192a
+          title: Verhetzende Beleidigung
+        - nr: "193"
+          title: Wahrnehmung berechtigter Interessen
+        - nr: "194"
+          title: Strafantrag
+        - nr: "199"
+          title: Wechselseitig begangene Beleidigungen
+        - nr: "200"
+          title: Bekanntgabe der Verurteilung
+    - label: Fünfzehnter Abschnitt
+      title: Verletzung des persönlichen Lebens- und Geheimbereichs
+      children:
+        - nr: "201"
+          title: Verletzung der Vertraulichkeit des Wortes
+        - nr: 201a
+          title: Verletzung des höchstpersönlichen Lebensbereichs und von Persönlichkeitsrechten durch Bildaufnahmen
+        - nr: "202"
+          title: Verletzung des Briefgeheimnisses
+        - nr: 202a
+          title: Ausspähen von Daten
+        - nr: 202b
+          title: Abfangen von Daten
+        - nr: 202c
+          title: Vorbereiten des Ausspähens und Abfangens von Daten
+        - nr: 202d
+          title: Datenhehlerei
+        - nr: "203"
+          title: Verletzung von Privatgeheimnissen
+        - nr: "204"
+          title: Verwertung fremder Geheimnisse
+        - nr: "205"
+          title: Strafantrag
+        - nr: "206"
+          title: Verletzung des Post- oder Fernmeldegeheimnisses
+    - label: Sechzehnter Abschnitt
+      title: Straftaten gegen das Leben
+      children:
+        - nr: "211"
+          title: Mord
+        - nr: "212"
+          title: Totschlag
+        - nr: "213"
+          title: Minder schwerer Fall des Totschlags
+        - nr: "216"
+          title: Tötung auf Verlangen
+        - nr: "217"
+          title: Geschäftsmäßige Förderung der Selbsttötung
+        - nr: "218"
+          title: Schwangerschaftsabbruch
+        - nr: 218a
+          title: Straflosigkeit des Schwangerschaftsabbruchs
+        - nr: 218b
+          title: Schwangerschaftsabbruch ohne ärztliche Feststellung; unrichtige ärztliche Feststellung
+        - nr: 218c
+          title: Ärztliche Pflichtverletzung bei einem Schwangerschaftsabbruch
+        - nr: "219"
+          title: Beratung der Schwangeren in einer Not- und Konfliktlage
+        - nr: 219b
+          title: Inverkehrbringen von Mitteln zum Abbruch der Schwangerschaft
+        - nr: "221"
+          title: Aussetzung
+        - nr: "222"
+          title: Fahrlässige Tötung
+    - label: Siebzehnter Abschnitt
+      title: Straftaten gegen die körperliche Unversehrtheit
+      children:
+        - nr: "223"
+          title: Körperverletzung
+        - nr: "224"
+          title: Gefährliche Körperverletzung
+        - nr: "225"
+          title: Mißhandlung von Schutzbefohlenen
+        - nr: "226"
+          title: Schwere Körperverletzung
+        - nr: 226a
+          title: Verstümmelung weiblicher Genitalien
+        - nr: "227"
+          title: Körperverletzung mit Todesfolge
+        - nr: "228"
+          title: Einwilligung
+        - nr: "229"
+          title: Fahrlässige Körperverletzung
+        - nr: "230"
+          title: Strafantrag
+        - nr: "231"
+          title: Beteiligung an einer Schlägerei
+    - label: Achtzehnter Abschnitt
+      title: Straftaten gegen die persönliche Freiheit
+      children:
+        - nr: "232"
+          title: Menschenhandel
+        - nr: 232a
+          title: Zwangsprostitution
+        - nr: 232b
+          title: Zwangsarbeit
+        - nr: "233"
+          title: Ausbeutung der Arbeitskraft
+        - nr: 233a
+          title: Ausbeutung unter Ausnutzung einer Freiheitsberaubung
+        - nr: 233b
+          title: Führungsaufsicht
+        - nr: "234"
+          title: Menschenraub
+        - nr: 234a
+          title: Verschleppung
+        - nr: 234b
+          title: Verschwindenlassen von Personen
+        - nr: "235"
+          title: Entziehung Minderjähriger
+        - nr: "236"
+          title: Kinderhandel
+        - nr: "237"
+          title: Zwangsheirat
+        - nr: "238"
+          title: Nachstellung
+        - nr: "239"
+          title: Freiheitsberaubung
+        - nr: 239a
+          title: Erpresserischer Menschenraub
+        - nr: 239b
+          title: Geiselnahme
+        - nr: 239c
+          title: Führungsaufsicht
+        - nr: "240"
+          title: Nötigung
+        - nr: "241"
+          title: Bedrohung
+        - nr: 241a
+          title: Politische Verdächtigung
+    - label: Neunzehnter Abschnitt
+      title: Diebstahl und Unterschlagung
+      children:
+        - nr: "242"
+          title: Diebstahl
+        - nr: "243"
+          title: Besonders schwerer Fall des Diebstahls
+        - nr: "244"
+          title: Diebstahl mit Waffen; Bandendiebstahl; Wohnungseinbruchdiebstahl
+        - nr: 244a
+          title: Schwerer Bandendiebstahl
+        - nr: "245"
+          title: Führungsaufsicht
+        - nr: "246"
+          title: Unterschlagung
+        - nr: "247"
+          title: Haus- und Familiendiebstahl
+        - nr: 248a
+          title: Diebstahl und Unterschlagung geringwertiger Sachen
+        - nr: 248b
+          title: Unbefugter Gebrauch eines Fahrzeugs
+        - nr: 248c
+          title: Entziehung elektrischer Energie
+    - label: Zwanzigster Abschnitt
+      title: Raub und Erpressung
+      children:
+        - nr: "249"
+          title: Raub
+        - nr: "250"
+          title: Schwerer Raub
+        - nr: "251"
+          title: Raub mit Todesfolge
+        - nr: "252"
+          title: Räuberischer Diebstahl
+        - nr: "253"
+          title: Erpressung
+        - nr: "255"
+          title: Räuberische Erpressung
+        - nr: "256"
+          title: Führungsaufsicht
+    - label: Einundzwanzigster Abschnitt
+      title: Begünstigung und Hehlerei
+      children:
+        - nr: "257"
+          title: Begünstigung
+        - nr: "258"
+          title: Strafvereitelung
+        - nr: 258a
+          title: Strafvereitelung im Amt
+        - nr: "259"
+          title: Hehlerei
+        - nr: "260"
+          title: Gewerbsmäßige Hehlerei; Bandenhehlerei
+        - nr: 260a
+          title: Gewerbsmäßige Bandenhehlerei
+        - nr: "261"
+          title: Geldwäsche
+        - nr: "262"
+          title: Führungsaufsicht
+    - label: Zweiundzwanzigster Abschnitt
+      title: Betrug und Untreue
+      children:
+        - nr: "263"
+          title: Betrug
+        - nr: 263a
+          title: Computerbetrug
+        - nr: "264"
+          title: Subventionsbetrug
+        - nr: 264a
+          title: Kapitalanlagebetrug
+        - nr: "265"
+          title: Versicherungsmißbrauch
+        - nr: 265a
+          title: Erschleichen von Leistungen
+        - nr: 265b
+          title: Kreditbetrug
+        - nr: 265c
+          title: Sportwettbetrug
+        - nr: 265d
+          title: Manipulation von berufssportlichen Wettbewerben
+        - nr: 265e
+          title: Besonders schwere Fälle des Sportwettbetrugs und der Manipulation von berufssportlichen Wettbewerben
+        - nr: "266"
+          title: Untreue
+        - nr: 266a
+          title: Vorenthalten und Veruntreuen von Arbeitsentgelt
+        - nr: 266b
+          title: Mißbrauch von Scheck- und Kreditkarten
+    - label: Dreiundzwanzigster Abschnitt
+      title: Urkundenfälschung
+      children:
+        - nr: "267"
+          title: Urkundenfälschung
+        - nr: "268"
+          title: Fälschung technischer Aufzeichnungen
+        - nr: "269"
+          title: Fälschung beweiserheblicher Daten
+        - nr: "270"
+          title: Täuschung im Rechtsverkehr bei Datenverarbeitung
+        - nr: "271"
+          title: Mittelbare Falschbeurkundung
+        - nr: "273"
+          title: Verändern von amtlichen Ausweisen
+        - nr: "274"
+          title: Urkundenunterdrückung; Veränderung einer Grenzbezeichnung
+        - nr: "275"
+          title: Vorbereitung der Fälschung von amtlichen Ausweisen; Vorbereitung der Herstellung von unrichtigen Impfausweisen
+        - nr: "276"
+          title: Verschaffen von falschen amtlichen Ausweisen
+        - nr: 276a
+          title: Aufenthaltsrechtliche Papiere; Fahrzeugpapiere
+        - nr: "277"
+          title: Unbefugtes Ausstellen von Gesundheitszeugnissen
+        - nr: "278"
+          title: Ausstellen unrichtiger Gesundheitszeugnisse
+        - nr: "279"
+          title: Gebrauch unrichtiger Gesundheitszeugnisse
+        - nr: "281"
+          title: Mißbrauch von Ausweispapieren
+        - nr: "282"
+          title: Einziehung
+    - label: Vierundzwanzigster Abschnitt
+      title: Insolvenzstraftaten
+      children:
+        - nr: "283"
+          title: Bankrott
+        - nr: 283a
+          title: Besonders schwerer Fall des Bankrotts
+        - nr: 283b
+          title: Verletzung der Buchführungspflicht
+        - nr: 283c
+          title: Gläubigerbegünstigung
+        - nr: 283d
+          title: Schuldnerbegünstigung
+    - label: Fünfundzwanzigster Abschnitt
+      title: Strafbarer Eigennutz
+      children:
+        - nr: "284"
+          title: Unerlaubte Veranstaltung eines Glücksspiels
+        - nr: "285"
+          title: Beteiligung am unerlaubten Glücksspiel
+        - nr: "286"
+          title: Einziehung
+        - nr: "287"
+          title: |-
+            Unerlaubte Veranstaltung einer Lotterie oder einer
+            Ausspielung
+        - nr: "288"
+          title: Vereiteln der Zwangsvollstreckung
+        - nr: "289"
+          title: Pfandkehr
+        - nr: "290"
+          title: Unbefugter Gebrauch von Pfandsachen
+        - nr: "291"
+          title: Wucher
+        - nr: "292"
+          title: Jagdwilderei
+        - nr: "293"
+          title: Fischwilderei
+        - nr: "294"
+          title: Strafantrag
+        - nr: "295"
+          title: Einziehung
+        - nr: "297"
+          title: Gefährdung von Schiffen, Kraft- und Luftfahrzeugen durch Bannware
+    - label: Sechsundzwanzigster Abschnitt
+      title: Straftaten gegen den Wettbewerb
+      children:
+        - nr: "298"
+          title: Wettbewerbsbeschränkende Absprachen bei Ausschreibungen
+        - nr: "299"
+          title: Bestechlichkeit und Bestechung im geschäftlichen Verkehr
+        - nr: 299a
+          title: Bestechlichkeit im Gesundheitswesen
+        - nr: 299b
+          title: Bestechung im Gesundheitswesen
+        - nr: "300"
+          title: Besonders schwere Fälle der Bestechlichkeit und Bestechung im geschäftlichen Verkehr und im Gesundheitswesen
+        - nr: "301"
+          title: Strafantrag
+    - label: Siebenundzwanzigster Abschnitt
+      title: Sachbeschädigung
+      children:
+        - nr: "303"
+          title: Sachbeschädigung
+        - nr: 303a
+          title: Datenveränderung
+        - nr: 303b
+          title: Computersabotage
+        - nr: 303c
+          title: Strafantrag
+        - nr: "304"
+          title: Gemeinschädliche Sachbeschädigung
+        - nr: "305"
+          title: Zerstörung von Bauwerken
+        - nr: 305a
+          title: Zerstörung wichtiger Arbeitsmittel
+    - label: Achtundzwanzigster Abschnitt
+      title: Gemeingefährliche Straftaten
+      children:
+        - nr: "306"
+          title: Brandstiftung
+        - nr: 306a
+          title: Schwere Brandstiftung
+        - nr: 306b
+          title: Besonders schwere Brandstiftung
+        - nr: 306c
+          title: Brandstiftung mit Todesfolge
+        - nr: 306d
+          title: Fahrlässige Brandstiftung
+        - nr: 306e
+          title: Tätige Reue
+        - nr: 306f
+          title: Herbeiführen einer Brandgefahr
+        - nr: "307"
+          title: Herbeiführen einer Explosion durch Kernenergie
+        - nr: "308"
+          title: Herbeiführen einer Sprengstoffexplosion
+        - nr: "309"
+          title: Mißbrauch ionisierender Strahlen
+        - nr: "310"
+          title: Vorbereitung eines Explosions- oder Strahlungsverbrechens
+        - nr: "311"
+          title: Freisetzen ionisierender Strahlen
+        - nr: "312"
+          title: Fehlerhafte Herstellung einer kerntechnischen Anlage
+        - nr: "313"
+          title: Herbeiführen einer Überschwemmung
+        - nr: "314"
+          title: Gemeingefährliche Vergiftung
+        - nr: 314a
+          title: Tätige Reue
+        - nr: "315"
+          title: Gefährliche Eingriffe in den Bahn-, Schiffs- und Luftverkehr
+        - nr: 315a
+          title: Gefährdung des Bahn-, Schiffs- und Luftverkehrs
+        - nr: 315b
+          title: Gefährliche Eingriffe in den Straßenverkehr
+        - nr: 315c
+          title: Gefährdung des Straßenverkehrs
+        - nr: 315d
+          title: Verbotene Kraftfahrzeugrennen
+        - nr: 315e
+          title: Schienenbahnen im Straßenverkehr
+        - nr: 315f
+          title: Einziehung
+        - nr: "316"
+          title: Trunkenheit im Verkehr
+        - nr: 316a
+          title: Räuberischer Angriff auf Kraftfahrer
+        - nr: 316b
+          title: Störung öffentlicher Betriebe
+        - nr: 316c
+          title: Angriffe auf den Luft- und Seeverkehr
+        - nr: "317"
+          title: Störung von Telekommunikationsanlagen
+        - nr: "318"
+          title: Beschädigung wichtiger Anlagen
+        - nr: "319"
+          title: Baugefährdung
+        - nr: "320"
+          title: Tätige Reue
+        - nr: "321"
+          title: Führungsaufsicht
+        - nr: "322"
+          title: Einziehung
+        - nr: 323a
+          title: Vollrausch
+        - nr: 323b
+          title: Gefährdung einer Entziehungskur
+        - nr: 323c
+          title: Unterlassene Hilfeleistung; Behinderung von hilfeleistenden Personen
+    - label: Neunundzwanzigster Abschnitt
+      title: Straftaten gegen die Umwelt
+      children:
+        - nr: "324"
+          title: Gewässerverunreinigung
+        - nr: 324a
+          title: Bodenverunreinigung
+        - nr: "325"
+          title: Luftverunreinigung
+        - nr: 325a
+          title: Verursachen von Lärm, Erschütterungen und nichtionisierenden Strahlen
+        - nr: "326"
+          title: Unerlaubter Umgang mit Abfällen
+        - nr: "327"
+          title: Unerlaubtes Betreiben von Anlagen
+        - nr: "328"
+          title: Unerlaubter Umgang mit radioaktiven Stoffen und anderen gefährlichen Stoffen und Gütern
+        - nr: "329"
+          title: Gefährdung schutzbedürftiger Gebiete
+        - nr: "330"
+          title: Besonders schwerer Fall einer Umweltstraftat
+        - nr: 330a
+          title: Schwere Gefährdung durch Freisetzen von Giften
+        - nr: 330b
+          title: Tätige Reue
+        - nr: 330c
+          title: Einziehung
+        - nr: 330d
+          title: Begriffsbestimmungen
+    - label: Dreißigster Abschnitt
+      title: Straftaten im Amt
+      children:
+        - nr: "331"
+          title: Vorteilsannahme
+        - nr: "332"
+          title: Bestechlichkeit
+        - nr: "333"
+          title: Vorteilsgewährung
+        - nr: "334"
+          title: Bestechung
+        - nr: "335"
+          title: Besonders schwere Fälle der Bestechlichkeit und Bestechung
+        - nr: 335a
+          title: Ausländische und internationale Bedienstete
+        - nr: "336"
+          title: Unterlassen der Diensthandlung
+        - nr: "337"
+          title: Schiedsrichtervergütung
+        - nr: "339"
+          title: Rechtsbeugung
+        - nr: "340"
+          title: Körperverletzung im Amt
+        - nr: "343"
+          title: Aussageerpressung
+        - nr: "344"
+          title: Verfolgung Unschuldiger
+        - nr: "345"
+          title: Vollstreckung gegen Unschuldige
+        - nr: "348"
+          title: Falschbeurkundung im Amt
+        - nr: "352"
+          title: Gebührenüberhebung
+        - nr: "353"
+          title: Abgabenüberhebung; Leistungskürzung
+        - nr: 353a
+          title: Vertrauensbruch im auswärtigen Dienst
+        - nr: 353b
+          title: Verletzung des Dienstgeheimnisses und einer besonderen Geheimhaltungspflicht
+        - nr: 353d
+          title: Verbotene Mitteilungen über Gerichtsverhandlungen
+        - nr: "355"
+          title: Verletzung des Steuergeheimnisses
+        - nr: "356"
+          title: Parteiverrat
+        - nr: "357"
+          title: Verleitung eines Untergebenen zu einer Straftat
+        - nr: "358"
+          title: Nebenfolgen
