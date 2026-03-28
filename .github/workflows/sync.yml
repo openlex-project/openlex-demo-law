@@ -13,3 +13,4 @@ jobs:
         with:
           deploy-hook: ${{ secrets.VERCEL_DEPLOY_HOOK }}
           gii-proxy-url: "https://gii-proxy.lexict.workers.dev"
+          gii-proxy-token: ${{ secrets.GII_PROXY_TOKEN }}
