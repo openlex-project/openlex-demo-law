@@ -1,0 +1,1 @@
+(2) Le présent règlement devrait être appliqué dans le respect des valeurs de l’Union consacrées dans la Charte, en facilitant la protection des personnes physiques, des entreprises, de la démocratie, de l’état de droit et de l’environnement, tout en stimulant l’innovation et l’emploi et en faisant de l’Union un acteur de premier plan dans l’adoption d’une IA digne de confiance.

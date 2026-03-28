@@ -1,0 +1,1 @@
+(11) Diese Verordnung sollte die Bestimmungen über die Verantwortlichkeit der Anbieter von Vermittlungsdiensten gemäß der Verordnung (EU) 2022/2065 des Europäischen Parlaments und des Rates unberührt lassen.

@@ -220,6 +220,11 @@ laws:
           111: [177, 178]
           112: [162, 164, 165, 174]
           113: [179]
+      annexes:
+        label: { de: "Anhänge", en: "Annexes", fr: "Annexes" }
+        title_short: { de: "Anhang", en: "Annex", fr: "Annexe" }
+        source: eurlex
+        prefix: "annex"
 
   bgb:
     title: "Bürgerliches Gesetzbuch"

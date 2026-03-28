@@ -1,0 +1,1 @@
+(45) Praktiken, die nach Unionsrecht, einschließlich Datenschutzrecht, Nichtdiskriminierungsrecht, Verbraucherschutzrecht und Wettbewerbsrecht, verboten sind, sollten von dieser Verordnung nicht betroffen sein.

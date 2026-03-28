@@ -1,0 +1,1 @@
+(99) Les grands modèles d’IA génératifs sont un exemple typique d’un modèle d’IA à usage général, étant donné qu’ils permettent la production flexible de contenus, tels que du texte, de l’audio, des images ou de la vidéo, qui peuvent aisément s’adapter à un large éventail de tâches distinctes.

@@ -1,0 +1,1 @@
+(5) Cependant, en fonction des circonstances concernant son application et son utilisation et du niveau de développement technologique, l’IA peut générer des risques et porter atteinte aux intérêts publics et aux droits fondamentaux protégés par le droit de l’Union. Le préjudice causé peut être matériel ou immatériel, y compris physique, psychologique, sociétal ou économique.

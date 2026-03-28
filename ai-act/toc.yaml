@@ -1,0 +1,618 @@
+- nr: "1"
+  title: ""
+- nr: "2"
+  title: ""
+- nr: "3"
+  title: ""
+- nr: "4"
+  title: ""
+- nr: "5"
+  title: ""
+- nr: "6"
+  title: ""
+- nr: "7"
+  title: ""
+- nr: "8"
+  title: ""
+- nr: "9"
+  title: ""
+- nr: "10"
+  title: ""
+- nr: "11"
+  title: ""
+- nr: "12"
+  title: ""
+- nr: "13"
+  title: ""
+- nr: "14"
+  title: ""
+- nr: "15"
+  title: ""
+- nr: "16"
+  title: ""
+- nr: "17"
+  title: ""
+- nr: "18"
+  title: ""
+- nr: "19"
+  title: ""
+- nr: "20"
+  title: ""
+- nr: "21"
+  title: ""
+- nr: "22"
+  title: ""
+- nr: "23"
+  title: ""
+- nr: "24"
+  title: ""
+- nr: "25"
+  title: ""
+- nr: "26"
+  title: ""
+- nr: "27"
+  title: ""
+- nr: "28"
+  title: ""
+- nr: "29"
+  title: ""
+- nr: "30"
+  title: ""
+- nr: "31"
+  title: ""
+- nr: "32"
+  title: ""
+- nr: "33"
+  title: ""
+- nr: "34"
+  title: ""
+- nr: "35"
+  title: ""
+- nr: "36"
+  title: ""
+- nr: "37"
+  title: ""
+- nr: "38"
+  title: ""
+- nr: "39"
+  title: ""
+- nr: "40"
+  title: ""
+- nr: "41"
+  title: ""
+- nr: "42"
+  title: ""
+- nr: "43"
+  title: ""
+- nr: "44"
+  title: ""
+- nr: "45"
+  title: ""
+- nr: "46"
+  title: ""
+- nr: "47"
+  title: ""
+- nr: "48"
+  title: ""
+- nr: "49"
+  title: ""
+- nr: "50"
+  title: ""
+- nr: "51"
+  title: ""
+- nr: "52"
+  title: ""
+- nr: "53"
+  title: ""
+- nr: "54"
+  title: ""
+- nr: "55"
+  title: ""
+- nr: "56"
+  title: ""
+- nr: "57"
+  title: ""
+- nr: "58"
+  title: ""
+- nr: "59"
+  title: ""
+- nr: "60"
+  title: ""
+- nr: "61"
+  title: ""
+- nr: "62"
+  title: ""
+- nr: "63"
+  title: ""
+- nr: "64"
+  title: ""
+- nr: "65"
+  title: ""
+- nr: "66"
+  title: ""
+- nr: "67"
+  title: ""
+- nr: "68"
+  title: ""
+- nr: "69"
+  title: ""
+- nr: "70"
+  title: ""
+- nr: "71"
+  title: ""
+- nr: "72"
+  title: ""
+- nr: "73"
+  title: ""
+- nr: "74"
+  title: ""
+- nr: "75"
+  title: ""
+- nr: "76"
+  title: ""
+- nr: "77"
+  title: ""
+- nr: "78"
+  title: ""
+- nr: "79"
+  title: ""
+- nr: "80"
+  title: ""
+- nr: "81"
+  title: ""
+- nr: "82"
+  title: ""
+- nr: "83"
+  title: ""
+- nr: "84"
+  title: ""
+- nr: "85"
+  title: ""
+- nr: "86"
+  title: ""
+- nr: "87"
+  title: ""
+- nr: "88"
+  title: ""
+- nr: "89"
+  title: ""
+- nr: "90"
+  title: ""
+- nr: "91"
+  title: ""
+- nr: "92"
+  title: ""
+- nr: "93"
+  title: ""
+- nr: "94"
+  title: ""
+- nr: "95"
+  title: ""
+- nr: "96"
+  title: ""
+- nr: "97"
+  title: ""
+- nr: "98"
+  title: ""
+- nr: "99"
+  title: ""
+- nr: "100"
+  title: ""
+- nr: "101"
+  title: ""
+- nr: "102"
+  title: ""
+- nr: "103"
+  title: ""
+- nr: "104"
+  title: ""
+- nr: "105"
+  title: ""
+- nr: "106"
+  title: ""
+- nr: "107"
+  title: ""
+- nr: "108"
+  title: ""
+- nr: "109"
+  title: ""
+- nr: "110"
+  title: ""
+- nr: "111"
+  title: ""
+- nr: "112"
+  title: ""
+- nr: "113"
+  title: ""
+- label: Erwägungsgründe
+  title: ""
+  children:
+    - nr: rec-1
+      title: EG 1
+    - nr: rec-2
+      title: EG 2
+    - nr: rec-3
+      title: EG 3
+    - nr: rec-4
+      title: EG 4
+    - nr: rec-5
+      title: EG 5
+    - nr: rec-6
+      title: EG 6
+    - nr: rec-7
+      title: EG 7
+    - nr: rec-8
+      title: EG 8
+    - nr: rec-9
+      title: EG 9
+    - nr: rec-10
+      title: EG 10
+    - nr: rec-11
+      title: EG 11
+    - nr: rec-12
+      title: EG 12
+    - nr: rec-13
+      title: EG 13
+    - nr: rec-14
+      title: EG 14
+    - nr: rec-15
+      title: EG 15
+    - nr: rec-16
+      title: EG 16
+    - nr: rec-17
+      title: EG 17
+    - nr: rec-18
+      title: EG 18
+    - nr: rec-19
+      title: EG 19
+    - nr: rec-20
+      title: EG 20
+    - nr: rec-21
+      title: EG 21
+    - nr: rec-22
+      title: EG 22
+    - nr: rec-23
+      title: EG 23
+    - nr: rec-24
+      title: EG 24
+    - nr: rec-25
+      title: EG 25
+    - nr: rec-26
+      title: EG 26
+    - nr: rec-27
+      title: EG 27
+    - nr: rec-28
+      title: EG 28
+    - nr: rec-29
+      title: EG 29
+    - nr: rec-30
+      title: EG 30
+    - nr: rec-31
+      title: EG 31
+    - nr: rec-32
+      title: EG 32
+    - nr: rec-33
+      title: EG 33
+    - nr: rec-34
+      title: EG 34
+    - nr: rec-35
+      title: EG 35
+    - nr: rec-36
+      title: EG 36
+    - nr: rec-37
+      title: EG 37
+    - nr: rec-38
+      title: EG 38
+    - nr: rec-39
+      title: EG 39
+    - nr: rec-40
+      title: EG 40
+    - nr: rec-41
+      title: EG 41
+    - nr: rec-42
+      title: EG 42
+    - nr: rec-43
+      title: EG 43
+    - nr: rec-44
+      title: EG 44
+    - nr: rec-45
+      title: EG 45
+    - nr: rec-46
+      title: EG 46
+    - nr: rec-47
+      title: EG 47
+    - nr: rec-48
+      title: EG 48
+    - nr: rec-49
+      title: EG 49
+    - nr: rec-50
+      title: EG 50
+    - nr: rec-51
+      title: EG 51
+    - nr: rec-52
+      title: EG 52
+    - nr: rec-53
+      title: EG 53
+    - nr: rec-54
+      title: EG 54
+    - nr: rec-55
+      title: EG 55
+    - nr: rec-56
+      title: EG 56
+    - nr: rec-57
+      title: EG 57
+    - nr: rec-58
+      title: EG 58
+    - nr: rec-59
+      title: EG 59
+    - nr: rec-60
+      title: EG 60
+    - nr: rec-61
+      title: EG 61
+    - nr: rec-62
+      title: EG 62
+    - nr: rec-63
+      title: EG 63
+    - nr: rec-64
+      title: EG 64
+    - nr: rec-65
+      title: EG 65
+    - nr: rec-66
+      title: EG 66
+    - nr: rec-67
+      title: EG 67
+    - nr: rec-68
+      title: EG 68
+    - nr: rec-69
+      title: EG 69
+    - nr: rec-70
+      title: EG 70
+    - nr: rec-71
+      title: EG 71
+    - nr: rec-72
+      title: EG 72
+    - nr: rec-73
+      title: EG 73
+    - nr: rec-74
+      title: EG 74
+    - nr: rec-75
+      title: EG 75
+    - nr: rec-76
+      title: EG 76
+    - nr: rec-77
+      title: EG 77
+    - nr: rec-78
+      title: EG 78
+    - nr: rec-79
+      title: EG 79
+    - nr: rec-80
+      title: EG 80
+    - nr: rec-81
+      title: EG 81
+    - nr: rec-82
+      title: EG 82
+    - nr: rec-83
+      title: EG 83
+    - nr: rec-84
+      title: EG 84
+    - nr: rec-85
+      title: EG 85
+    - nr: rec-86
+      title: EG 86
+    - nr: rec-87
+      title: EG 87
+    - nr: rec-88
+      title: EG 88
+    - nr: rec-89
+      title: EG 89
+    - nr: rec-90
+      title: EG 90
+    - nr: rec-91
+      title: EG 91
+    - nr: rec-92
+      title: EG 92
+    - nr: rec-93
+      title: EG 93
+    - nr: rec-94
+      title: EG 94
+    - nr: rec-95
+      title: EG 95
+    - nr: rec-96
+      title: EG 96
+    - nr: rec-97
+      title: EG 97
+    - nr: rec-98
+      title: EG 98
+    - nr: rec-99
+      title: EG 99
+    - nr: rec-100
+      title: EG 100
+    - nr: rec-101
+      title: EG 101
+    - nr: rec-102
+      title: EG 102
+    - nr: rec-103
+      title: EG 103
+    - nr: rec-104
+      title: EG 104
+    - nr: rec-105
+      title: EG 105
+    - nr: rec-106
+      title: EG 106
+    - nr: rec-107
+      title: EG 107
+    - nr: rec-108
+      title: EG 108
+    - nr: rec-109
+      title: EG 109
+    - nr: rec-110
+      title: EG 110
+    - nr: rec-111
+      title: EG 111
+    - nr: rec-112
+      title: EG 112
+    - nr: rec-113
+      title: EG 113
+    - nr: rec-114
+      title: EG 114
+    - nr: rec-115
+      title: EG 115
+    - nr: rec-116
+      title: EG 116
+    - nr: rec-117
+      title: EG 117
+    - nr: rec-118
+      title: EG 118
+    - nr: rec-119
+      title: EG 119
+    - nr: rec-120
+      title: EG 120
+    - nr: rec-121
+      title: EG 121
+    - nr: rec-122
+      title: EG 122
+    - nr: rec-123
+      title: EG 123
+    - nr: rec-124
+      title: EG 124
+    - nr: rec-125
+      title: EG 125
+    - nr: rec-126
+      title: EG 126
+    - nr: rec-127
+      title: EG 127
+    - nr: rec-128
+      title: EG 128
+    - nr: rec-129
+      title: EG 129
+    - nr: rec-130
+      title: EG 130
+    - nr: rec-131
+      title: EG 131
+    - nr: rec-132
+      title: EG 132
+    - nr: rec-133
+      title: EG 133
+    - nr: rec-134
+      title: EG 134
+    - nr: rec-135
+      title: EG 135
+    - nr: rec-136
+      title: EG 136
+    - nr: rec-137
+      title: EG 137
+    - nr: rec-138
+      title: EG 138
+    - nr: rec-139
+      title: EG 139
+    - nr: rec-140
+      title: EG 140
+    - nr: rec-141
+      title: EG 141
+    - nr: rec-142
+      title: EG 142
+    - nr: rec-143
+      title: EG 143
+    - nr: rec-144
+      title: EG 144
+    - nr: rec-145
+      title: EG 145
+    - nr: rec-146
+      title: EG 146
+    - nr: rec-147
+      title: EG 147
+    - nr: rec-148
+      title: EG 148
+    - nr: rec-149
+      title: EG 149
+    - nr: rec-150
+      title: EG 150
+    - nr: rec-151
+      title: EG 151
+    - nr: rec-152
+      title: EG 152
+    - nr: rec-153
+      title: EG 153
+    - nr: rec-154
+      title: EG 154
+    - nr: rec-155
+      title: EG 155
+    - nr: rec-156
+      title: EG 156
+    - nr: rec-157
+      title: EG 157
+    - nr: rec-158
+      title: EG 158
+    - nr: rec-159
+      title: EG 159
+    - nr: rec-160
+      title: EG 160
+    - nr: rec-161
+      title: EG 161
+    - nr: rec-162
+      title: EG 162
+    - nr: rec-163
+      title: EG 163
+    - nr: rec-164
+      title: EG 164
+    - nr: rec-165
+      title: EG 165
+    - nr: rec-166
+      title: EG 166
+    - nr: rec-167
+      title: EG 167
+    - nr: rec-168
+      title: EG 168
+    - nr: rec-169
+      title: EG 169
+    - nr: rec-170
+      title: EG 170
+    - nr: rec-171
+      title: EG 171
+    - nr: rec-172
+      title: EG 172
+    - nr: rec-173
+      title: EG 173
+    - nr: rec-174
+      title: EG 174
+    - nr: rec-175
+      title: EG 175
+    - nr: rec-176
+      title: EG 176
+    - nr: rec-177
+      title: EG 177
+    - nr: rec-178
+      title: EG 178
+    - nr: rec-179
+      title: EG 179
+    - nr: rec-180
+      title: EG 180
+- label: Anhänge
+  title: ""
+  children:
+    - nr: annex-1
+      title: Liste der Harmonisierungsrechtsvorschriften der Union
+    - nr: annex-2
+      title: Liste der Straftaten gemäß Artikel 5 Absatz 1 Unterabsatz 1 Buchstabe h Ziffer iii
+    - nr: annex-3
+      title: Hochrisiko-KI-Systeme gemäß Artikel 6 Absatz 2
+    - nr: annex-4
+      title: Technische Dokumentation gemäß Artikel 11 Absatz 1
+    - nr: annex-5
+      title: EU-Konformitätserklärung
+    - nr: annex-6
+      title: Konformitätsbewertungsverfahren auf der Grundlage einer internen Kontrolle
+    - nr: annex-7
+      title: Konformität auf der Grundlage einer Bewertung des Qualitätsmanagementsystems und einer Bewertung der technischen Dokumentation
+    - nr: annex-8
+      title: Bei der Registrierung des Hochrisiko-KI-Systems gemäß Artikel 49 bereitzustellende Informationen
+    - nr: annex-9
+      title: Bezüglich Tests unter Realbedingungen gemäß Artikel 60 bei der Registrierung von in Anhang III aufgeführten Hochrisiko-KI-Systemen bereitzustellende Informationen
+    - nr: annex-10
+      title: Anhang 10
+    - nr: annex-11
+      title: Technische Dokumentation gemäß Artikel 53 Absatz 1 Buchstabe a — technische Dokumentation für Anbieter von KI-Modellen mit allgemeinem Verwendungszweck
+    - nr: annex-12
+      title: Transparenzinformationen gemäß Artikel 53 Absatz 1 Buchstabe b — technische Dokumentation für Anbieter von KI-Modellen mit allgemeinem Verwendungszweck für nachgelagerte Anbieter, die das Modell in ihr KI-System integrieren
+    - nr: annex-13
+      title: Kriterien für die Benennung von KI-Modellen mit allgemeinem Verwendungszweck mit systemischem Risiko gemäß Artikel 51

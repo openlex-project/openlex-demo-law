@@ -1,0 +1,1 @@
+(11) Le présent règlement devrait être sans préjudice des dispositions relatives à la responsabilité des fournisseurs de services intermédiaires prévue dans le règlement (UE) 2022/2065 du Parlement européen et du Conseil.

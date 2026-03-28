@@ -1,0 +1,1 @@
+(79) Es ist angezeigt, dass eine bestimmte als Anbieter definierte natürliche oder juristische Person die Verantwortung für das Inverkehrbringen oder die Inbetriebnahme eines Hochrisiko-KI-Systems übernimmt, unabhängig davon, ob es sich bei dieser natürlichen oder juristischen Person um die Person handelt, die das System konzipiert oder entwickelt hat.

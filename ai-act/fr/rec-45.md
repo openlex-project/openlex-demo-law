@@ -1,0 +1,1 @@
+(45) Le présent règlement devrait être sans effet sur les pratiques interdites par le droit de l’Union, notamment en vertu du droit de la protection des données, de la lutte contre la discrimination, de la protection des consommateurs et de la concurrence.
