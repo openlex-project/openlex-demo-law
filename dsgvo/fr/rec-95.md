@@ -1,0 +1,1 @@
+(95) Le sous-traitant devrait aider le responsable du traitement, si nécessaire et sur demande, à assurer le respect des obligations découlant de la réalisation des analyses d'impact relatives à la protection des données et de la consultation préalable de l'autorité de contrôle.

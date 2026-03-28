@@ -1,0 +1,1 @@
+(55) En outre, le traitement de données à caractère personnel par des autorités publiques aux fins de réaliser les objectifs, prévus par le droit constitutionnel ou le droit international public, d'associations à caractère religieux officiellement reconnues est effectué pour des motifs d'intérêt public.

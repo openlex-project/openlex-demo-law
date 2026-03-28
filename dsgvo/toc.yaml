@@ -1,0 +1,1078 @@
+- label: Erwägungsgründe
+  title:
+    de: Erwägungsgründe
+    en: Recitals
+    fr: Considérants
+  children:
+    - nr: rec-1
+      title: EG 1
+    - nr: rec-2
+      title: EG 2
+    - nr: rec-3
+      title: EG 3
+    - nr: rec-4
+      title: EG 4
+    - nr: rec-5
+      title: EG 5
+    - nr: rec-6
+      title: EG 6
+    - nr: rec-7
+      title: EG 7
+    - nr: rec-8
+      title: EG 8
+    - nr: rec-9
+      title: EG 9
+    - nr: rec-10
+      title: EG 10
+    - nr: rec-11
+      title: EG 11
+    - nr: rec-12
+      title: EG 12
+    - nr: rec-13
+      title: EG 13
+    - nr: rec-14
+      title: EG 14
+    - nr: rec-15
+      title: EG 15
+    - nr: rec-16
+      title: EG 16
+    - nr: rec-17
+      title: EG 17
+    - nr: rec-18
+      title: EG 18
+    - nr: rec-19
+      title: EG 19
+    - nr: rec-20
+      title: EG 20
+    - nr: rec-21
+      title: EG 21
+    - nr: rec-22
+      title: EG 22
+    - nr: rec-23
+      title: EG 23
+    - nr: rec-24
+      title: EG 24
+    - nr: rec-25
+      title: EG 25
+    - nr: rec-26
+      title: EG 26
+    - nr: rec-27
+      title: EG 27
+    - nr: rec-28
+      title: EG 28
+    - nr: rec-29
+      title: EG 29
+    - nr: rec-30
+      title: EG 30
+    - nr: rec-31
+      title: EG 31
+    - nr: rec-32
+      title: EG 32
+    - nr: rec-33
+      title: EG 33
+    - nr: rec-34
+      title: EG 34
+    - nr: rec-35
+      title: EG 35
+    - nr: rec-36
+      title: EG 36
+    - nr: rec-37
+      title: EG 37
+    - nr: rec-38
+      title: EG 38
+    - nr: rec-39
+      title: EG 39
+    - nr: rec-40
+      title: EG 40
+    - nr: rec-41
+      title: EG 41
+    - nr: rec-42
+      title: EG 42
+    - nr: rec-43
+      title: EG 43
+    - nr: rec-44
+      title: EG 44
+    - nr: rec-45
+      title: EG 45
+    - nr: rec-46
+      title: EG 46
+    - nr: rec-47
+      title: EG 47
+    - nr: rec-48
+      title: EG 48
+    - nr: rec-49
+      title: EG 49
+    - nr: rec-50
+      title: EG 50
+    - nr: rec-51
+      title: EG 51
+    - nr: rec-52
+      title: EG 52
+    - nr: rec-53
+      title: EG 53
+    - nr: rec-54
+      title: EG 54
+    - nr: rec-55
+      title: EG 55
+    - nr: rec-56
+      title: EG 56
+    - nr: rec-57
+      title: EG 57
+    - nr: rec-58
+      title: EG 58
+    - nr: rec-59
+      title: EG 59
+    - nr: rec-60
+      title: EG 60
+    - nr: rec-61
+      title: EG 61
+    - nr: rec-62
+      title: EG 62
+    - nr: rec-63
+      title: EG 63
+    - nr: rec-64
+      title: EG 64
+    - nr: rec-65
+      title: EG 65
+    - nr: rec-66
+      title: EG 66
+    - nr: rec-67
+      title: EG 67
+    - nr: rec-68
+      title: EG 68
+    - nr: rec-69
+      title: EG 69
+    - nr: rec-70
+      title: EG 70
+    - nr: rec-71
+      title: EG 71
+    - nr: rec-72
+      title: EG 72
+    - nr: rec-73
+      title: EG 73
+    - nr: rec-74
+      title: EG 74
+    - nr: rec-75
+      title: EG 75
+    - nr: rec-76
+      title: EG 76
+    - nr: rec-77
+      title: EG 77
+    - nr: rec-78
+      title: EG 78
+    - nr: rec-79
+      title: EG 79
+    - nr: rec-80
+      title: EG 80
+    - nr: rec-81
+      title: EG 81
+    - nr: rec-82
+      title: EG 82
+    - nr: rec-83
+      title: EG 83
+    - nr: rec-84
+      title: EG 84
+    - nr: rec-85
+      title: EG 85
+    - nr: rec-86
+      title: EG 86
+    - nr: rec-87
+      title: EG 87
+    - nr: rec-88
+      title: EG 88
+    - nr: rec-89
+      title: EG 89
+    - nr: rec-90
+      title: EG 90
+    - nr: rec-91
+      title: EG 91
+    - nr: rec-92
+      title: EG 92
+    - nr: rec-93
+      title: EG 93
+    - nr: rec-94
+      title: EG 94
+    - nr: rec-95
+      title: EG 95
+    - nr: rec-96
+      title: EG 96
+    - nr: rec-97
+      title: EG 97
+    - nr: rec-98
+      title: EG 98
+    - nr: rec-99
+      title: EG 99
+    - nr: rec-100
+      title: EG 100
+    - nr: rec-101
+      title: EG 101
+    - nr: rec-102
+      title: EG 102
+    - nr: rec-103
+      title: EG 103
+    - nr: rec-104
+      title: EG 104
+    - nr: rec-105
+      title: EG 105
+    - nr: rec-106
+      title: EG 106
+    - nr: rec-107
+      title: EG 107
+    - nr: rec-108
+      title: EG 108
+    - nr: rec-109
+      title: EG 109
+    - nr: rec-110
+      title: EG 110
+    - nr: rec-111
+      title: EG 111
+    - nr: rec-112
+      title: EG 112
+    - nr: rec-113
+      title: EG 113
+    - nr: rec-114
+      title: EG 114
+    - nr: rec-115
+      title: EG 115
+    - nr: rec-116
+      title: EG 116
+    - nr: rec-117
+      title: EG 117
+    - nr: rec-118
+      title: EG 118
+    - nr: rec-119
+      title: EG 119
+    - nr: rec-120
+      title: EG 120
+    - nr: rec-121
+      title: EG 121
+    - nr: rec-122
+      title: EG 122
+    - nr: rec-123
+      title: EG 123
+    - nr: rec-124
+      title: EG 124
+    - nr: rec-125
+      title: EG 125
+    - nr: rec-126
+      title: EG 126
+    - nr: rec-127
+      title: EG 127
+    - nr: rec-128
+      title: EG 128
+    - nr: rec-129
+      title: EG 129
+    - nr: rec-130
+      title: EG 130
+    - nr: rec-131
+      title: EG 131
+    - nr: rec-132
+      title: EG 132
+    - nr: rec-133
+      title: EG 133
+    - nr: rec-134
+      title: EG 134
+    - nr: rec-135
+      title: EG 135
+    - nr: rec-136
+      title: EG 136
+    - nr: rec-137
+      title: EG 137
+    - nr: rec-138
+      title: EG 138
+    - nr: rec-139
+      title: EG 139
+    - nr: rec-140
+      title: EG 140
+    - nr: rec-141
+      title: EG 141
+    - nr: rec-142
+      title: EG 142
+    - nr: rec-143
+      title: EG 143
+    - nr: rec-144
+      title: EG 144
+    - nr: rec-145
+      title: EG 145
+    - nr: rec-146
+      title: EG 146
+    - nr: rec-147
+      title: EG 147
+    - nr: rec-148
+      title: EG 148
+    - nr: rec-149
+      title: EG 149
+    - nr: rec-150
+      title: EG 150
+    - nr: rec-151
+      title: EG 151
+    - nr: rec-152
+      title: EG 152
+    - nr: rec-153
+      title: EG 153
+    - nr: rec-154
+      title: EG 154
+    - nr: rec-155
+      title: EG 155
+    - nr: rec-156
+      title: EG 156
+    - nr: rec-157
+      title: EG 157
+    - nr: rec-158
+      title: EG 158
+    - nr: rec-159
+      title: EG 159
+    - nr: rec-160
+      title: EG 160
+    - nr: rec-161
+      title: EG 161
+    - nr: rec-162
+      title: EG 162
+    - nr: rec-163
+      title: EG 163
+    - nr: rec-164
+      title: EG 164
+    - nr: rec-165
+      title: EG 165
+    - nr: rec-166
+      title: EG 166
+    - nr: rec-167
+      title: EG 167
+    - nr: rec-168
+      title: EG 168
+    - nr: rec-169
+      title: EG 169
+    - nr: rec-170
+      title: EG 170
+    - nr: rec-171
+      title: EG 171
+    - nr: rec-172
+      title: EG 172
+    - nr: rec-173
+      title: EG 173
+- label:
+    de: KAPITEL I
+    en: CHAPTER I
+    fr: CHAPITRE I
+  title:
+    de: Allgemeine Bestimmungen
+    en: General provisions
+    fr: Dispositions générales
+  children:
+    - nr: "1"
+      title:
+        de: Gegenstand und Ziele
+        en: Subject-matter and objectives
+        fr: Objet et objectifs
+    - nr: "2"
+      title:
+        de: Sachlicher Anwendungsbereich
+        en: Material scope
+        fr: Champ d'application matériel
+    - nr: "3"
+      title:
+        de: Räumlicher Anwendungsbereich
+        en: Territorial scope
+        fr: Champ d'application territorial
+    - nr: "4"
+      title:
+        de: Begriffsbestimmungen
+        en: Definitions
+        fr: Définitions
+- label:
+    de: KAPITEL II
+    en: CHAPTER II
+    fr: CHAPITRE II
+  title:
+    de: Grundsätze
+    en: Principles
+    fr: Principes
+  children:
+    - nr: "5"
+      title:
+        de: Grundsätze für die Verarbeitung personenbezogener Daten
+        en: Principles relating to processing of personal data
+        fr: Principes relatifs au traitement des données à caractère personnel
+    - nr: "6"
+      title:
+        de: Rechtmäßigkeit der Verarbeitung
+        en: Lawfulness of processing
+        fr: Licéité du traitement
+    - nr: "7"
+      title:
+        de: Bedingungen für die Einwilligung
+        en: Conditions for consent
+        fr: Conditions applicables au consentement
+    - nr: "8"
+      title:
+        de: Bedingungen für die Einwilligung eines Kindes in Bezug auf Dienste der Informationsgesellschaft
+        en: Conditions applicable to child's consent in relation to information society services
+        fr: Conditions applicables au consentement des enfants en ce qui concerne les services de la société de l'information
+    - nr: "9"
+      title:
+        de: Verarbeitung besonderer Kategorien personenbezogener Daten
+        en: Processing of special categories of personal data
+        fr: Traitement portant sur des catégories particulières de données à caractère personnel
+    - nr: "10"
+      title:
+        de: Verarbeitung von personenbezogenen Daten über strafrechtliche Verurteilungen und Straftaten
+        en: Processing of personal data relating to criminal convictions and offences
+        fr: Traitement des données à caractère personnel relatives aux condamnations pénales et aux infractions
+    - nr: "11"
+      title:
+        de: Verarbeitung, für die eine Identifizierung der betroffenen Person nicht erforderlich ist
+        en: Processing which does not require identification
+        fr: Traitement ne nécessitant pas l'identification
+- label:
+    de: KAPITEL III
+    en: CHAPTER III
+    fr: CHAPITRE III
+  title:
+    de: Rechte der betroffenen Person
+    en: Rights of the data subject
+    fr: Droits de la personne concernée
+  children:
+    - label:
+        de: Abschnitt 1
+        en: Section 1
+        fr: Section 1
+      title:
+        de: Transparenz und Modalitäten
+        en: Transparency and modalities
+        fr: Transparence et modalités
+      children:
+        - nr: "12"
+          title:
+            de: Transparente Information, Kommunikation und Modalitäten für die Ausübung der Rechte der betroffenen Person
+            en: Transparent information, communication and modalities for the exercise of the rights of the data subject
+            fr: Transparence des informations et des communications et modalités de l'exercice des droits de la personne concernée
+    - label:
+        de: Abschnitt 2
+        en: Section 2
+        fr: Section 2
+      title:
+        de: Informationspflicht und Recht auf Auskunft zu personenbezogenen Daten
+        en: Information and access to personal data
+        fr: Information et accès aux données à caractère personnel
+      children:
+        - nr: "13"
+          title:
+            de: Informationspflicht bei Erhebung von personenbezogenen Daten bei der betroffenen Person
+            en: Information to be provided where personal data are collected from the data subject
+            fr: Informations à fournir lorsque des données à caractère personnel sont collectées auprès de la personne concernée
+        - nr: "14"
+          title:
+            de: Informationspflicht, wenn die personenbezogenen Daten nicht bei der betroffenen Person erhoben wurden
+            en: Information to be provided where personal data have not been obtained from the data subject
+            fr: Informations à fournir lorsque les données à caractère personnel n'ont pas été collectées auprès de la personne concernée
+        - nr: "15"
+          title:
+            de: Auskunftsrecht der betroffenen Person
+            en: Right of access by the data subject
+            fr: Droit d'accès de la personne concernée
+    - label:
+        de: Abschnitt 3
+        en: Section 3
+        fr: Section 3
+      title:
+        de: Berichtigung und Löschung
+        en: Rectification and erasure
+        fr: Rectification et effacement
+      children:
+        - nr: "16"
+          title:
+            de: Recht auf Berichtigung
+            en: Right to rectification
+            fr: Droit de rectification
+        - nr: "17"
+          title: ""
+        - nr: "18"
+          title:
+            de: Recht auf Einschränkung der Verarbeitung
+            en: Right to restriction of processing
+            fr: Droit à la limitation du traitement
+        - nr: "19"
+          title:
+            de: Mitteilungspflicht im Zusammenhang mit der Berichtigung oder Löschung personenbezogener Daten oder der Einschränkung der Verarbeitung
+            en: Notification obligation regarding rectification or erasure of personal data or restriction of processing
+            fr: Obligation de notification en ce qui concerne la rectification ou l'effacement de données à caractère personnel ou la limitation du traitement
+        - nr: "20"
+          title:
+            de: Recht auf Datenübertragbarkeit
+            en: Right to data portability
+            fr: Droit à la portabilité des données
+    - label:
+        de: Abschnitt 4
+        en: Section 4
+        fr: Section 4
+      title:
+        de: Widerspruchsrecht und automatisierte Entscheidungsfindung im Einzelfall
+        en: Right to object and automated individual decision-making
+        fr: Droit d'opposition et prise de décision individuelle automatisée
+      children:
+        - nr: "21"
+          title:
+            de: Widerspruchsrecht
+            en: Right to object
+            fr: Droit d'opposition
+        - nr: "22"
+          title:
+            de: Automatisierte Entscheidungen im Einzelfall einschließlich Profiling
+            en: Automated individual decision-making, including profiling
+            fr: Décision individuelle automatisée, y compris le profilage
+    - label:
+        de: Abschnitt 5
+        en: Section 5
+        fr: Section 5
+      title:
+        de: Beschränkungen
+        en: Restrictions
+        fr: Limitations
+      children:
+        - nr: "23"
+          title:
+            de: Beschränkungen
+            en: Restrictions
+            fr: Limitations
+- label:
+    de: KAPITEL IV
+    en: CHAPTER IV
+    fr: CHAPITRE IV
+  title:
+    de: Verantwortlicher und Auftragsverarbeiter
+    en: Controller and processor
+    fr: Responsable du traitement et sous-traitant
+  children:
+    - label:
+        de: Abschnitt 1
+        en: Section 1
+        fr: Section 1
+      title:
+        de: Allgemeine Pflichten
+        en: General obligations
+        fr: Obligations générales
+      children:
+        - nr: "24"
+          title:
+            de: Verantwortung des für die Verarbeitung Verantwortlichen
+            en: Responsibility of the controller
+            fr: Responsabilité du responsable du traitement
+        - nr: "25"
+          title:
+            de: Datenschutz durch Technikgestaltung und durch datenschutzfreundliche Voreinstellungen
+            en: Data protection by design and by default
+            fr: Protection des données dès la conception et protection des données par défaut
+        - nr: "26"
+          title:
+            de: Gemeinsam für die Verarbeitung Verantwortliche
+            en: Joint controllers
+            fr: Responsables conjoints du traitement
+        - nr: "27"
+          title:
+            de: Vertreter von nicht in der Union niedergelassenen Verantwortlichen oder Auftragsverarbeitern
+            en: Representatives of controllers or processors not established in the Union
+            fr: Représentants des responsables du traitement ou des sous-traitants qui ne sont pas établis dans l'Union
+        - nr: "28"
+          title:
+            de: Auftragsverarbeiter
+            en: Processor
+            fr: Sous-traitant
+        - nr: "29"
+          title:
+            de: Verarbeitung unter der Aufsicht des Verantwortlichen oder des Auftragsverarbeiters
+            en: Processing under the authority of the controller or processor
+            fr: Traitement effectué sous l'autorité du responsable du traitement ou du sous-traitant
+        - nr: "30"
+          title:
+            de: Verzeichnis von Verarbeitungstätigkeiten
+            en: Records of processing activities
+            fr: Registre des activités de traitement
+        - nr: "31"
+          title:
+            de: Zusammenarbeit mit der Aufsichtsbehörde
+            en: Cooperation with the supervisory authority
+            fr: Coopération avec l'autorité de contrôle
+    - label:
+        de: Abschnitt 2
+        en: Section 2
+        fr: Section 2
+      title:
+        de: Sicherheit personenbezogener Daten
+        en: Security of personal data
+        fr: Sécurité des données à.caractère personnel
+      children:
+        - nr: "32"
+          title:
+            de: Sicherheit der Verarbeitung
+            en: Security of processing
+            fr: Sécurité du traitement
+        - nr: "33"
+          title:
+            de: Meldung von Verletzungen des Schutzes personenbezogener Daten an die Aufsichtsbehörde
+            en: Notification of a personal data breach to the supervisory authority
+            fr: Notification à l'autorité de contrôle d'une violation de données à caractère personnel
+        - nr: "34"
+          title:
+            de: Benachrichtigung der von einer Verletzung des Schutzes personenbezogener Daten betroffenen Person
+            en: Communication of a personal data breach to the data subject
+            fr: Communication à la personne concernée d'une violation de données à caractère personnel
+    - label:
+        de: Abschnitt 3
+        en: Section 3
+        fr: Section 3
+      title:
+        de: Datenschutz-Folgenabschätzung und vorherige Konsultation
+        en: Data protection impact assessment and prior consultation
+        fr: Analyse d'impact relative à la protection des donnés et consultation préalable
+      children:
+        - nr: "35"
+          title:
+            de: Datenschutz-Folgenabschätzung
+            en: Data protection impact assessment
+            fr: Analyse d'impact relative à la protection des données
+        - nr: "36"
+          title:
+            de: Vorherige Konsultation
+            en: Prior consultation
+            fr: Consultation préalable
+    - label:
+        de: Abschnitt 4
+        en: Section 4
+        fr: Section 4
+      title:
+        de: Datenschutzbeauftragter
+        en: Data protection officer
+        fr: Délégué à la protection des données
+      children:
+        - nr: "37"
+          title:
+            de: Benennung eines Datenschutzbeauftragten
+            en: Designation of the data protection officer
+            fr: Désignation du délégué à la protection des données
+        - nr: "38"
+          title:
+            de: Stellung des Datenschutzbeauftragten
+            en: Position of the data protection officer
+            fr: Fonction du délégué à la protection des données
+        - nr: "39"
+          title:
+            de: Aufgaben des Datenschutzbeauftragten
+            en: Tasks of the data protection officer
+            fr: Missions du délégué à la protection des données
+    - label:
+        de: Abschnitt 5
+        en: Section 5
+        fr: Section 5
+      title:
+        de: Verhaltensregeln und Zertifizierung
+        en: Codes of conduct and certification
+        fr: Codes de conduite et certification
+      children:
+        - nr: "40"
+          title:
+            de: Verhaltensregeln
+            en: Codes of conduct
+            fr: Codes de conduite
+        - nr: "41"
+          title:
+            de: Überwachung der genehmigten Verhaltensregeln
+            en: Monitoring of approved codes of conduct
+            fr: Suivi des codes de conduite approuvés
+        - nr: "42"
+          title:
+            de: Zertifizierung
+            en: Certification
+            fr: Certification
+        - nr: "43"
+          title:
+            de: Zertifizierungsstellen
+            en: Certification bodies
+            fr: Organismes de certification
+- label:
+    de: KAPITEL V
+    en: CHAPTER V
+    fr: CHAPITRE V
+  title:
+    de: Übermittlungen personenbezogener Daten an Drittländer oder an internationale Organisationen
+    en: Transfers of personal data to third countries or international organisations
+    fr: Transferts de données à caractère personnel vers des pays tiers ou à des organisations internationales
+  children:
+    - nr: "44"
+      title:
+        de: Allgemeine Grundsätze der Datenübermittlung
+        en: General principle for transfers
+        fr: Principe général applicable aux transferts
+    - nr: "45"
+      title:
+        de: Datenübermittlung auf der Grundlage eines Angemessenheitsbeschlusses
+        en: Transfers on the basis of an adequacy decision
+        fr: Transferts fondés sur une décision d'adéquation
+    - nr: "46"
+      title:
+        de: Datenübermittlung vorbehaltlich geeigneter Garantien
+        en: Transfers subject to appropriate safeguards
+        fr: Transferts moyennant des garanties appropriées
+    - nr: "47"
+      title:
+        de: Verbindliche interne Datenschutzvorschriften
+        en: Binding corporate rules
+        fr: Règles d'entreprise contraignantes
+    - nr: "48"
+      title:
+        de: Nach dem Unionsrecht nicht zulässige Übermittlung oder Offenlegung
+        en: Transfers or disclosures not authorised by Union law
+        fr: Transferts ou divulgations non autorisés par le droit de l'Union
+    - nr: "49"
+      title:
+        de: Ausnahmen für bestimmte Fälle
+        en: Derogations for specific situations
+        fr: Dérogations pour des situations particulières
+    - nr: "50"
+      title:
+        de: Internationale Zusammenarbeit zum Schutz personenbezogener Daten
+        en: International cooperation for the protection of personal data
+        fr: Coopération internationale dans le domaine de la protection des données à caractère personnel
+- label:
+    de: KAPITEL VI
+    en: CHAPTER VI
+    fr: CHAPITRE VI
+  title:
+    de: Unabhängige Aufsichtsbehörden
+    en: Independent supervisory authorities
+    fr: Autorités de contrôle indépendantes
+  children:
+    - label:
+        de: Abschnitt 1
+        en: Section 1
+        fr: Section 1
+      title:
+        de: Unabhängigkeit
+        en: Independent status
+        fr: Statut d'indépendance
+      children:
+        - nr: "51"
+          title:
+            de: Aufsichtsbehörde
+            en: Supervisory authority
+            fr: Autorité de contrôle
+        - nr: "52"
+          title:
+            de: Unabhängigkeit
+            en: Independence
+            fr: Indépendance
+        - nr: "53"
+          title:
+            de: Allgemeine Bedingungen für die Mitglieder der Aufsichtsbehörde
+            en: General conditions for the members of the supervisory authority
+            fr: Conditions générales applicables aux membres de l'autorité de contrôle
+        - nr: "54"
+          title:
+            de: Errichtung der Aufsichtsbehörde
+            en: Rules on the establishment of the supervisory authority
+            fr: Règles relatives à l'établissement de l'autorité de contrôle
+    - label:
+        de: Abschnitt 2
+        en: Section 2
+        fr: Section 2
+      title:
+        de: Zuständigkeit, Aufgaben und Befugnisse
+        en: Competence, tasks and powers
+        fr: Compétence, missions et pouvoirs
+      children:
+        - nr: "55"
+          title:
+            de: Zuständigkeit
+            en: Competence
+            fr: Compétence
+        - nr: "56"
+          title:
+            de: Zuständigkeit der federführenden Aufsichtsbehörde
+            en: Competence of the lead supervisory authority
+            fr: Compétence de l'autorité de contrôle chef de file
+        - nr: "57"
+          title:
+            de: Aufgaben
+            en: Tasks
+            fr: Missions
+        - nr: "58"
+          title:
+            de: Befugnisse
+            en: Powers
+            fr: Pouvoirs
+        - nr: "59"
+          title:
+            de: Tätigkeitsbericht
+            en: Activity reports
+            fr: Rapports d'activité
+- label:
+    de: KAPITEL VII
+    en: CHAPTER VII
+    fr: CHAPITRE VII
+  title:
+    de: Zusammenarbeit und Kohärenz
+    en: Cooperation and consistency
+    fr: Coopération et cohérence
+  children:
+    - label:
+        de: Abschnitt 1
+        en: Section 1
+        fr: Section 1
+      title:
+        de: Zusammenarbeit
+        en: Cooperation
+        fr: Coopération
+      children:
+        - nr: "60"
+          title:
+            de: Zusammenarbeit zwischen der federführenden Aufsichtsbehörde und den anderen betroffenen Aufsichtsbehörden
+            en: Cooperation between the lead supervisory authority and the other supervisory authorities concerned
+            fr: Coopération entre l'autorité de contrôle chef de file et les autres autorités de contrôle concernées
+        - nr: "61"
+          title:
+            de: Gegenseitige Amtshilfe
+            en: Mutual assistance
+            fr: Assistance mutuelle
+        - nr: "62"
+          title:
+            de: Gemeinsame Maßnahmen der Aufsichtsbehörden
+            en: Joint operations of supervisory authorities
+            fr: Opérations conjointes des autorités de contrôle
+    - label:
+        de: Abschnitt 2
+        en: Section 2
+        fr: Section 2
+      title:
+        de: Kohärenz
+        en: Consistency
+        fr: Cohérence
+      children:
+        - nr: "63"
+          title:
+            de: Kohärenzverfahren
+            en: Consistency mechanism
+            fr: Mécanisme de contrôle de la cohérence
+        - nr: "64"
+          title:
+            de: Stellungnahme Ausschusses
+            en: Opinion of the Board
+            fr: Avis du comité
+        - nr: "65"
+          title:
+            de: Streitbeilegung durch den Ausschuss
+            en: Dispute resolution by the Board
+            fr: Règlement des litiges par le comité
+        - nr: "66"
+          title:
+            de: Dringlichkeitsverfahren
+            en: Urgency procedure
+            fr: Procédure d'urgence
+        - nr: "67"
+          title:
+            de: Informationsaustausch
+            en: Exchange of information
+            fr: Échange d'informations
+    - label:
+        de: Abschnitt 3
+        en: Section 3
+        fr: Section 3
+      title:
+        de: Europäischer Datenschutzausschuss
+        en: European data protection board
+        fr: Comité européen de la protection des données
+      children:
+        - nr: "68"
+          title:
+            de: Europäischer Datenschutzausschuss
+            en: European Data Protection Board
+            fr: Comité européen de la protection des données
+        - nr: "69"
+          title:
+            de: Unabhängigkeit
+            en: Independence
+            fr: Indépendance
+        - nr: "70"
+          title:
+            de: Aufgaben des Ausschusses
+            en: Tasks of the Board
+            fr: Missions du comité
+        - nr: "71"
+          title:
+            de: Berichterstattung
+            en: Reports
+            fr: Rapports
+        - nr: "72"
+          title:
+            de: Verfahrensweise
+            en: Procedure
+            fr: Procédure
+        - nr: "73"
+          title:
+            de: Vorsitz
+            en: Chair
+            fr: Président
+        - nr: "74"
+          title:
+            de: Aufgaben des Vorsitzes
+            en: Tasks of the Chair
+            fr: Missions du président
+        - nr: "75"
+          title:
+            de: Sekretariat
+            en: Secretariat
+            fr: Secrétariat
+        - nr: "76"
+          title:
+            de: Vertraulichkeit
+            en: Confidentiality
+            fr: Confidentialité
+- label:
+    de: KAPITEL VIII
+    en: CHAPTER VIII
+    fr: CHAPITRE VIII
+  title:
+    de: Rechtsbehelfe, Haftung und Sanktionen
+    en: Remedies, liability and penalties
+    fr: Voies de recours, responsabilité et sanctions
+  children:
+    - nr: "77"
+      title:
+        de: Recht auf Beschwerde bei einer Aufsichtsbehörde
+        en: Right to lodge a complaint with a supervisory authority
+        fr: Droit d'introduire une réclamation auprès d'une autorité de contrôle
+    - nr: "78"
+      title:
+        de: Recht auf wirksamen gerichtlichen Rechtsbehelf gegen eine Aufsichtsbehörde
+        en: Right to an effective judicial remedy against a supervisory authority
+        fr: Droit à un recours juridictionnel effectif contre une autorité de contrôle
+    - nr: "79"
+      title:
+        de: Recht auf wirksamen gerichtlichen Rechtsbehelf gegen Verantwortliche oder Auftragsverarbeiter
+        en: Right to an effective judicial remedy against a controller or processor
+        fr: Droit à un recours juridictionnel effectif contre un responsable du traitement ou un sous-traitant
+    - nr: "80"
+      title:
+        de: Vertretung von betroffenen Personen
+        en: Representation of data subjects
+        fr: Représentation des personnes concernées
+    - nr: "81"
+      title:
+        de: Aussetzung des Verfahrens
+        en: Suspension of proceedings
+        fr: Suspension d'une action
+    - nr: "82"
+      title:
+        de: Haftung und Recht auf Schadenersatz
+        en: Right to compensation and liability
+        fr: Droit à réparation et responsabilité
+    - nr: "83"
+      title:
+        de: Allgemeine Bedingungen für die Verhängung von Geldbußen
+        en: General conditions for imposing administrative fines
+        fr: Conditions générales pour imposer des amendes administratives
+    - nr: "84"
+      title:
+        de: Sanktionen
+        en: Penalties
+        fr: Sanctions
+- label:
+    de: KAPITEL IX
+    en: CHAPTER IX
+    fr: CHAPITRE IX
+  title:
+    de: Vorschriften für besondere Verarbeitungssituationen
+    en: Provisions relating to specific processing situations
+    fr: Dispositions relatives à des situations particulières de traitement
+  children:
+    - nr: "85"
+      title:
+        de: Verarbeitung und Freiheit der Meinungsäußerung und Informationsfreiheit
+        en: Processing and freedom of expression and information
+        fr: Traitement et liberté d'expression et d'information
+    - nr: "86"
+      title:
+        de: Verarbeitung und Zugang der Öffentlichkeit zu amtlichen Dokumenten
+        en: Processing and public access to official documents
+        fr: Traitement et accès du public aux documents officiels
+    - nr: "87"
+      title:
+        de: Verarbeitung der nationalen Kennziffer
+        en: Processing of the national identification number
+        fr: Traitement du numéro d'identification national
+    - nr: "88"
+      title:
+        de: Datenverarbeitung im Beschäftigungskontext
+        en: Processing in the context of employment
+        fr: Traitement de données dans le cadre des relations de travail
+    - nr: "89"
+      title:
+        de: Garantien und Ausnahmen in Bezug auf die Verarbeitung zu im öffentlichen Interesse liegenden Archivzwecken, zu wissenschaftlichen oder historischen Forschungszwecken und zu statistischen Zwecken
+        en: Safeguards and derogations relating to processing for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes
+        fr: Garanties et dérogations applicables au traitement à des fins archivistiques dans l'intérêt public, à des fins de recherche scientifique ou historique ou à des fins statistiques
+    - nr: "90"
+      title:
+        de: Geheimhaltungspflichten
+        en: Obligations of secrecy
+        fr: Obligations de secret
+    - nr: "91"
+      title:
+        de: Bestehende Datenschutzvorschriften von Kirchen und religiösen Vereinigungen oder Gemeinschaften
+        en: Existing data protection rules of churches and religious associations
+        fr: Règles existantes des églises et associations religieuses en matière de protection des données
+- label:
+    de: KAPITEL X
+    en: CHAPTER X
+    fr: CHAPITRE X
+  title:
+    de: Delegierte Rechtsakte und Durchführungsrechtsakte
+    en: Delegated acts and implementing acts
+    fr: Actes délégués et actes d'exécution
+  children:
+    - nr: "92"
+      title:
+        de: Ausübung der Befugnisübertragung
+        en: Exercise of the delegation
+        fr: Exercice de la délégation
+    - nr: "93"
+      title:
+        de: Ausschussverfahren
+        en: Committee procedure
+        fr: Comité
+- label:
+    de: KAPITEL XI
+    en: CHAPTER XI
+    fr: CHAPITRE XI
+  title:
+    de: Schlussbestimmungen
+    en: Final provisions
+    fr: Dispositions finales
+  children:
+    - nr: "94"
+      title:
+        de: Aufhebung der Richtlinie 95/46/EG
+        en: Repeal of Directive 95/46/EC
+        fr: Abrogation de la directive 95/46/CE
+    - nr: "95"
+      title:
+        de: Verhältnis zur Richtlinie 2002/58/EG
+        en: Relationship with Directive 2002/58/EC
+        fr: Relation avec la directive 2002/58/CE
+    - nr: "96"
+      title:
+        de: Verhältnis zu bereits geschlossenen Übereinkünften
+        en: Relationship with previously concluded Agreements
+        fr: Relation avec les accords conclus antérieurement
+    - nr: "97"
+      title:
+        de: Berichte der Kommission
+        en: Commission reports
+        fr: Rapports de la Commission
+    - nr: "98"
+      title:
+        de: Überprüfung anderer Rechtsakte der Union zum Datenschutz
+        en: Review of other Union legal acts on data protection
+        fr: Réexamen d'autres actes juridiques de l'Union relatifs à la protection des données
+    - nr: "99"
+      title:
+        de: Inkrafttreten und Anwendung
+        en: Entry into force and application
+        fr: Entrée en vigueur et application

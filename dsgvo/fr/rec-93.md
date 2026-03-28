@@ -1,0 +1,1 @@
+(93) Au moment de l'adoption du droit d'un État membre qui fonde l'exercice des missions de l'autorité publique ou de l'organisme public concernés et qui règlemente l'opération ou l'ensemble d'opérations de traitement spécifiques, les États membres peuvent estimer qu'une telle analyse est nécessaire préalablement aux activités de traitement.

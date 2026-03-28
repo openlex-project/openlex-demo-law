@@ -1,0 +1,1 @@
+(27) Le présent règlement ne s'applique pas aux données à caractère personnel des personnes décédées. Les États membres peuvent prévoir des règles relatives au traitement des données à caractère personnel des personnes décédées.

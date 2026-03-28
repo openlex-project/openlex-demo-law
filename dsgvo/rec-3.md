@@ -1,0 +1,1 @@
+(3) Zweck der Richtlinie 95/46/EG des Europäischen Parlaments und des Rates ist die Harmonisierung der Vorschriften zum Schutz der Grundrechte und Grundfreiheiten natürlicher Personen bei der Datenverarbeitung sowie die Gewährleistung des freien Verkehrs personenbezogener Daten zwischen den Mitgliedstaaten.
