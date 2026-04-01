@@ -4262,24 +4262,24 @@
               title: Anerkennung der Vaterschaft
             - nr: "1595"
               title: Zustimmungsbedürftigkeit der Anerkennung
+            - nr: 1595a
+              title: Anerkennung trotz bestehender Vaterschaft
             - nr: "1596"
-              title: Anerkennung und Zustimmung bei fehlender oder beschränkter Geschäftsfähigkeit
+              title: Anerkennung und Zustimmung als persönliche Erklärungen
             - nr: "1597"
-              title: Formerfordernisse; Widerruf
+              title: Form
             - nr: 1597a
               title: Verbot der missbräuchlichen Anerkennung der Vaterschaft
             - nr: "1598"
-              title: Unwirksamkeit von Anerkennung, Zustimmung und Widerruf
+              title: Unwirksamkeit von Anerkennung und Zustimmung
             - nr: 1598a
               title: Anspruch auf Einwilligung in eine genetische Untersuchung zur Klärung der leiblichen Abstammung
             - nr: "1599"
-              title: Nichtbestehen der Vaterschaft
+              title: Anfechtbarkeit der Vaterschaft; Unanfechtbarkeit der Mutterschaft
             - nr: "1600"
-              title: Anfechtungsberechtigte
+              title: Anfechtungsberechtigte; Ausschluss der Anfechtung
             - nr: 1600a
-              title: |-
-                Persönliche Anfechtung; Anfechtung bei fehlender oder beschränkter
-                Geschäftsfähigkeit
+              title: Persönliche Anfechtung; Anfechtung bei fehlender oder beschränkter Geschäftsfähigkeit
             - nr: 1600b
               title: Anfechtungsfristen
             - nr: 1600c
