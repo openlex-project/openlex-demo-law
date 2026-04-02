@@ -406,14 +406,16 @@
               title: Verwenden von Kennzeichen verfassungswidriger und terroristischer Organisationen
             - nr: "87"
               title: Agententätigkeit zu Sabotagezwecken
+            - nr: 87a
+              title: Ausübung fremder Einflussnahme und darauf gerichtete Agententätigkeit
             - nr: "88"
               title: Verfassungsfeindliche Sabotage
             - nr: "89"
               title: Verfassungsfeindliche Einwirkung auf Bundeswehr und öffentliche Sicherheitsorgane
             - nr: 89a
-              title: Vorbereitung einer schweren staatsgefährdenden Gewalttat
+              title: Vorbereitung einer terroristischen Straftat; Versuch der Anstiftung und Androhung
             - nr: 89b
-              title: Aufnahme von Beziehungen zur Begehung einer schweren staatsgefährdenden Gewalttat
+              title: Aufnahme von Beziehungen zur Begehung einer terroristischen Straftat
             - nr: 89c
               title: Terrorismusfinanzierung
             - nr: "90"
@@ -425,7 +427,7 @@
             - nr: 90c
               title: Verunglimpfung von Symbolen der Europäischen Union
             - nr: "91"
-              title: Anleitung zur Begehung einer schweren staatsgefährdenden Gewalttat
+              title: Anleitung zur Begehung einer terroristischen Straftat
             - nr: 91a
               title: Anwendungsbereich
         - label: Vierter Titel
