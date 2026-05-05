@@ -54,10 +54,6 @@
                       title: Besondere Vertreter
                     - nr: "31"
                       title: Haftung des Vereins für Organe
-                    - nr: 31a
-                      title: Haftung von Organmitgliedern und besonderen Vertretern
-                    - nr: 31b
-                      title: Haftung von Vereinsmitgliedern
                     - nr: "32"
                       title: Mitgliederversammlung; Beschlussfassung
                     - nr: "33"
@@ -307,8 +303,6 @@
               title: Anfechtungsfrist
             - nr: "125"
               title: Nichtigkeit wegen Formmangels
-            - nr: "126"
-              title: Schriftform
             - nr: 126a
               title: Elektronische Form
             - nr: 126b
@@ -319,10 +313,6 @@
               title: Gerichtlicher Vergleich
             - nr: "128"
               title: Notarielle Beurkundung
-            - nr: "129"
-              title: Öffentliche Beglaubigung
-            - nr: "130"
-              title: Wirksamwerden der Willenserklärung gegenüber Abwesenden
             - nr: "131"
               title: Wirksamwerden gegenüber nicht voll Geschäftsfähigen
             - nr: "132"
@@ -727,8 +717,6 @@
       children:
         - nr: "305"
           title: Einbeziehung Allgemeiner Geschäftsbedingungen in den Vertrag
-        - nr: 305a
-          title: Einbeziehung in besonderen Fällen
         - nr: 305b
           title: Vorrang der Individualabrede
         - nr: 305c
@@ -1925,12 +1913,6 @@
                   title: Einwilligung
                 - nr: 630e
                   title: Aufklärungspflichten
-                - nr: 630f
-                  title: Dokumentation der Behandlung
-                - nr: 630g
-                  title: Einsichtnahme in die Behandlungsakte
-                - nr: 630h
-                  title: Beweislast bei Haftung für Behandlungs- und Aufklärungsfehler
         - label: Titel 9
           title: Werkvertrag und ähnliche Verträge
           children:
@@ -2791,12 +2773,8 @@
     - label: Abschnitt 2
       title: Allgemeine Vorschriften über Rechte an Grundstücken
       children:
-        - nr: "873"
-          title: Erwerb durch Einigung und Eintragung
         - nr: "874"
           title: Bezugnahme auf die Eintragungsbewilligung
-        - nr: "875"
-          title: Aufhebung eines Rechts
         - nr: "876"
           title: Aufhebung eines belasteten Rechts
         - nr: "877"
@@ -4258,30 +4236,8 @@
               title: Vaterschaft
             - nr: "1593"
               title: Vaterschaft bei Auflösung der Ehe durch Tod
-            - nr: "1594"
-              title: Anerkennung der Vaterschaft
-            - nr: "1595"
-              title: Zustimmungsbedürftigkeit der Anerkennung
-            - nr: 1595a
-              title: Anerkennung trotz bestehender Vaterschaft
-            - nr: "1596"
-              title: Anerkennung und Zustimmung als persönliche Erklärungen
-            - nr: "1597"
-              title: Form
-            - nr: 1597a
-              title: Verbot der missbräuchlichen Anerkennung der Vaterschaft
-            - nr: "1598"
-              title: Unwirksamkeit von Anerkennung und Zustimmung
             - nr: 1598a
               title: Anspruch auf Einwilligung in eine genetische Untersuchung zur Klärung der leiblichen Abstammung
-            - nr: "1599"
-              title: Anfechtbarkeit der Vaterschaft; Unanfechtbarkeit der Mutterschaft
-            - nr: "1600"
-              title: Anfechtungsberechtigte; Ausschluss der Anfechtung
-            - nr: 1600a
-              title: Persönliche Anfechtung; Anfechtung bei fehlender oder beschränkter Geschäftsfähigkeit
-            - nr: 1600b
-              title: Anfechtungsfristen
             - nr: 1600c
               title: Vaterschaftsvermutung im Anfechtungsverfahren
             - nr: 1600d
@@ -4413,8 +4369,6 @@
               title: Verbot der Sterilisation
             - nr: 1631d
               title: Beschneidung des männlichen Kindes
-            - nr: 1631e
-              title: Behandlung von Kindern mit Varianten der Geschlechtsentwicklung
             - nr: "1632"
               title: Herausgabe des Kindes; Bestimmung des Umgangs; Verbleibensanordnung bei Familienpflege
             - nr: "1638"
@@ -4978,8 +4932,6 @@
               title: Annahme und Ausschlagung der Erbschaft
             - nr: "1944"
               title: Ausschlagungsfrist
-            - nr: "1945"
-              title: Form der Ausschlagung
             - nr: "1946"
               title: Zeitpunkt für Annahme oder Ausschlagung
             - nr: "1947"
@@ -5630,10 +5582,6 @@
               title: Eigenhändiges Testament
             - nr: "2248"
               title: Verwahrung des eigenhändigen Testaments
-            - nr: "2249"
-              title: Nottestament vor dem Bürgermeister
-            - nr: "2250"
-              title: Nottestament vor drei Zeugen
             - nr: "2251"
               title: Nottestament auf See
             - nr: "2252"
