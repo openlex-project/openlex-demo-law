@@ -780,7 +780,7 @@
                     - nr: 312c
                       title: Fernabsatzverträge
                     - nr: 312d
-                      title: Informationspflichten
+                      title: Informationspflichten; Gestaltungspflichten bezüglich Online-Benutzeroberflächen
                     - nr: 312e
                       title: Verletzung von Informationspflichten über Kosten
                     - nr: 312f
@@ -969,15 +969,17 @@
                 - nr: "356"
                   title: Widerrufsrecht bei außerhalb von Geschäftsräumen geschlossenen Verträgen und Fernabsatzverträgen
                 - nr: 356a
-                  title: Widerrufsrecht bei Teilzeit-Wohnrechteverträgen, Verträgen über ein langfristiges Urlaubsprodukt, bei Vermittlungsverträgen und Tauschsystemverträgen
+                  title: Elektronische Widerrufsfunktion bei Fernabsatzverträgen
                 - nr: 356b
                   title: Widerrufsrecht bei Verbraucherdarlehensverträgen
                 - nr: 356c
-                  title: Widerrufsrecht bei Ratenlieferungsverträgen
+                  title: Widerrufsrecht bei Teilzeit-Wohnrechteverträgen, Verträgen über ein langfristiges Urlaubsprodukt, bei Vermittlungsverträgen und Tauschsystemverträgen
                 - nr: 356d
-                  title: Widerrufsrecht des Verbrauchers bei unentgeltlichen Darlehensverträgen und unentgeltlichen Finanzierungshilfen
+                  title: Widerrufsrecht bei Ratenlieferungsverträgen
                 - nr: 356e
                   title: Widerrufsrecht bei Verbraucherbauverträgen
+                - nr: 356f
+                  title: Widerrufsrecht des Verbrauchers bei unentgeltlichen Darlehensverträgen und unentgeltlichen Finanzierungshilfen
                 - nr: "357"
                   title: Rechtsfolgen des Widerrufs von außerhalb von Geschäftsräumen geschlossenen Verträgen und Fernabsatzverträgen mit Ausnahme von Verträgen über Finanzdienstleistungen
                 - nr: 357a
