@@ -1301,6 +1301,23 @@
                 - nr: "479"
                   title: Sonderbestimmungen für Garantien
             - label: Untertitel 4
+              title: Reparaturverpflichtung des Herstellers
+              children:
+                - nr: 479a
+                  title: Anwendungsbereich
+                - nr: 479b
+                  title: Reparaturverpflichtung
+                - nr: 479c
+                  title: Ersatzteile und Werkzeuge
+                - nr: 479d
+                  title: Information über die Reparaturverpflichtung und Angaben über Richtpreise
+                - nr: 479e
+                  title: Unzulässige Handlungen
+                - nr: 479f
+                  title: Hersteller mit Sitz außerhalb der Europäischen Union
+                - nr: 479g
+                  title: Abweichende Vereinbarungen
+            - label: Untertitel 5
               title: Tausch
               children:
                 - nr: "480"
